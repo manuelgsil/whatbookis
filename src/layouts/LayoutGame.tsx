@@ -1,3 +1,4 @@
+import Book from "../components/Book";
 import Header from "../components/Header";
 
 export function LayoutGame(){
@@ -10,6 +11,7 @@ export function LayoutGame(){
                     <p className="text-center mt-4">¡Aquí empieza el juego de adivinanza de libros!</p>
                 </div>
             </div>
+            <Book></Book>
         </div>
     
   );
