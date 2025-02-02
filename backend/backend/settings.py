@@ -14,6 +14,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# Echar un vistazo luego
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",  # React en desarrollo
+]
 
 # Application definition
 
@@ -24,11 +28,26 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'corsheaders',
+    'backend.apps.api',
 ]
 
+
+""" PARA ORDENAR LA ESTRUCTURA """
+PROJECT_APPS = [
+    'rest_frameworks',
+    ''
+    
+]
+"""  PARA LAS IMPORTACIONES DEL SETTINGS """
+THIRD_PARTY_APPS =[
+    
+]
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
-    'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.contrib.sessions.middleware.SessionMiddleware', 
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -54,8 +73,21 @@ TEMPLATES = [
     },
 ]
 
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
+}
+
+#CORS_ORIGIN_WHITELIST = 'http://localhost:3000', ''
 WSGI_APPLICATION = 'backend.wsgi.application'
 
+# Configuración de CORS
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",  # Permite solicitudes desde Vite/React
+]
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
