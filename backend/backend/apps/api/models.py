@@ -1,6 +1,9 @@
 from django.db import models
 
 class Autor(models.Model):
+    """
+    Representa un autor con su nombre, año de nacimiento y fallecimiento (opcional).
+    """
     nombre = models.CharField(max_length=255)
     nacimiento = models.IntegerField(null=True, blank=True)
     fallecimiento = models.IntegerField(null=True, blank=True)
@@ -9,18 +12,22 @@ class Autor(models.Model):
         return self.nombre
 
 class Libro(models.Model):
-    id_proyecto_gutenberg = models.IntegerField(unique=True)  # ID de Gutenberg
+    """
+    Modelo para almacenar información sobre libros del Proyecto Gutenberg.
+    """
+    id_proyecto_gutenberg = models.IntegerField(unique=True)
     titulo = models.CharField(max_length=500)
-    temas = models.JSONField()  # Lista de temas
+    titulo_es = models.CharField(max_length=255, null=True, blank=True)    
+    temas = models.JSONField()
     autores = models.ManyToManyField(Autor, related_name="libros")
-    idiomas = models.JSONField()  # Lista de idiomas
-    formatos = models.JSONField()  # Diccionario con formatos de descarga
+    idiomas = models.JSONField()
+    # formatos = models.JSONField()  # Diccionario con formatos de descarga (deshabilitado)
     cantidad_descargas = models.IntegerField()
-    enlace = models.URLField()  # Enlace al libro
-    
-    # Campos adicionales para los párrafos que se completarán más tarde
-    primer_parrafo_en = models.TextField(null=True, blank=True)  # Primer párrafo en inglés
-    primer_parrafo_es = models.TextField(null=True, blank=True)  # Primer párrafo en español
+    enlace = models.URLField()
+
+    # Campos adicionales para almacenar el primer párrafo en diferentes idiomas
+    primer_parrafo_en = models.TextField(null=True, blank=True)
+    primer_parrafo_es = models.TextField(null=True, blank=True)
 
     def __str__(self):
         return self.titulo

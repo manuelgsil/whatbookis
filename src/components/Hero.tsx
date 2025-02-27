@@ -1,44 +1,49 @@
-import { Link } from 'react-router-dom'; // Importa Link
+import { Link } from "react-router-dom"
+import { ArrowRight, BookOpen } from "lucide-react"
 
-const HeroSection = () => {
+const Hero = () => {
   return (
-    <section className="text-gray-600 body-font bg-white dark:bg-slate-900 h-screen w-full">
-      <div className="container mx-auto flex md:px-24 md:py-10 md:flex-row flex-col items-center">
-        <div
-          className="lg:flex-grow mt-5 md:mt-0 md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
-        >
-          <h1 className="text-2xl font-extrabold leading-9 tracking-tight mb-3 text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-normal">
-            Whatbookis
-          </h1>
-          <p className="mb-8 md:pl-0 pl-2 pr-2 leading-relaxed dark:text-gray-300">
-            Adivina el libro basándote únicamente en su primer párrafo. Un ejercicio que combina memoria y apreciación literaria.
-          </p>
-          <div className="flex justify-center">
-            {/* Usamos Link para redirigir */}
-            <Link
-              to="/quiz" // Ruta correcta
-              className="inline-flex text-white bg-emerald-600 border-0 py-2 px-6 focus:outline-none hover:bg-emerald-700 rounded text-lg"
-            >
-              Juguemos
-            </Link>
-            <Link
-              to="/projects" // Ruta correcta
-              className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg"
-            >
-              Más proyectos
-            </Link>
+    <section className="bg-gradient-to-b from-white to-gray-100 dark:from-slate-900 dark:to-slate-800 min-h-screen flex items-center">
+      <div className="container mx-auto px-4 py-16 sm:px-6 lg:px-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+          <div className="space-y-8">
+            <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl">
+              <span className="block">Whatbookis</span>
+              <span className="block text-emerald-600">Adivina el libro</span>
+            </h1>
+            <p className="text-xl text-gray-600 dark:text-gray-300">
+              Desafía tu memoria y apreciación literaria adivinando libros basándote únicamente en su primer párrafo.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Link
+                to="/quiz"
+                className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-emerald-600 hover:bg-emerald-700 transition duration-150 ease-in-out"
+              >
+                Juguemos
+                <ArrowRight className="ml-2 -mr-1 h-5 w-5" />
+              </Link>
+              <Link
+                to="/projects"
+                className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-emerald-700 bg-emerald-100 hover:bg-emerald-200 transition duration-150 ease-in-out"
+              >
+                Más proyectos
+                <BookOpen className="ml-2 -mr-1 h-5 w-5" />
+              </Link>
+            </div>
           </div>
-        </div>
-        <div className="lg:max-w-lg lg:w-full mb-5 md:mb-0 md:w-1/2 w-3/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="https://www.svgrepo.com/show/492789/books-and-people.svg"
-          />
+          <div className="relative">
+            <div className="absolute inset-0 bg-gradient-to-r from-emerald-400 to-cyan-400 rounded-full filter blur-3xl opacity-30 animate-blob"></div>
+            <img
+              className="relative rounded-lg shadow-2xl"
+              src="https://www.svgrepo.com/show/492789/books-and-people.svg"
+              alt="Personas leyendo libros"
+            />
+          </div>
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default HeroSection;
+export default Hero
+

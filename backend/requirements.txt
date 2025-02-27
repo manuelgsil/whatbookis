@@ -4,3 +4,4 @@ django-cors-headers==4.6.0
 djangorestframework==3.15.2
 psycopg==3.2.4
 beautifulsoup4==4.12.3
+googletrans== 4.0.2

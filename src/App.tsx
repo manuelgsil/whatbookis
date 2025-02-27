@@ -2,8 +2,8 @@ import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import './App.css';
 import { LayoutMain } from './layouts/LayoutMain';
 import QuizPage from './pages/QuizPage';
-import React, { useEffect, useState } from 'react';
-import axios from 'axios';
+/* import React, { useEffect, useState } from 'react';
+import axios from 'axios'; */
 /*  👁️‍🗨️👁️‍🗨️👁️‍🗨️ LAS IMPORTACIONES👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️
 
 Exportación con nombre: Cuando usas  🔥  export function Layout 🔥 ,

@@ -5,23 +5,25 @@ import re
 class AutorSerializer(serializers.ModelSerializer):
     class Meta:
         model = Autor
-        fields = ['nombre']
+        fields = ['nombre','nacimiento']
 
 class LibroSerializer(serializers.ModelSerializer):
     autores = AutorSerializer(many=True)  # Serializamos los autores como una lista de objetos Autor
 
     class Meta:
         model = Libro
-        fields = ['id', 'id_proyecto_gutenberg', 'titulo', 'cantidad_descargas', 'enlace', 'primer_parrafo_en', 'autores']
+        fields = ['id_proyecto_gutenberg', 'titulo','titulo_es', 'enlace', 'primer_parrafo_en','primer_parrafo_es', 'autores','temas']
 
     def to_representation(self, instance):
         # Llamamos al método original para obtener la representación
         representation = super().to_representation(instance)
-        
-        # Limpiar el campo 'primer_parrafo_en' antes de enviarlo al frontend
+
+        # Limpiar el campo 'primer_parrafo_en' y 'primer_parrafo_es' antes de enviarlos al frontend
         if 'primer_parrafo_en' in representation and representation['primer_parrafo_en']:
-            # Limpiar saltos de línea, caracteres no imprimibles, y espacios innecesarios
             representation['primer_parrafo_en'] = self.limpiar_texto(representation['primer_parrafo_en'])
+        
+        if 'primer_parrafo_es' in representation and representation['primer_parrafo_es']:
+            representation['primer_parrafo_es'] = self.limpiar_texto(representation['primer_parrafo_es'])
 
         return representation
 

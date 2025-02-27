@@ -6,7 +6,7 @@ const QuizPage = () => {
             <LayoutGame>
                 
             </LayoutGame>
-        </>
+        </> 
     );
 };
 
