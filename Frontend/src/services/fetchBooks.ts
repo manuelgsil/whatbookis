@@ -4,7 +4,7 @@ import { Book } from "../interfaces/types";
 export async function fetchBooks(): Promise<Book[]> {
     try {
         // Hacemos la llamada a la API con los campos correctos
-        const response = await axios.get<Book[]>("https://whatbookis.onrender.com/libros/");
+        const response = await axios.get<Book[]>("http://127.0.0.1:8000/libros/");
         
         return response.data.map((book) => ({
             titulo: book.titulo,  // Mantenemos el campo "titulo" como está en el backend
