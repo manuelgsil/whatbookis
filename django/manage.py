@@ -7,31 +7,37 @@ def main():
     load_dotenv()
 
     # Obtener la configuración de Django desde las variables de entorno
-    settings_module = os.getenv("DJANGO_SETTINGS_MODULE", "backend.settings.prod")
+    settings_module = os.getenv("DJANGO_SETTINGS_MODULE", "backend.settings.dev")
     
-    # Imprimir la configuración cargada
-    print(f"🔧 Cargando configuración: {settings_module}")  
+    print("\n" + "="*50)
+    print(f"🔧  Cargando configuración de Django")
+    print("="*50)
+    print(f"📌 Configuración utilizada: {settings_module}")
+    print("="*50 + "\n")
 
     # Mostrar todas las variables de entorno cargadas
-    print("\n🔧 Variables de entorno cargadas:")
-    # Iterar sobre las variables de entorno y mostrar solo las que están en .env
-    env_keys = ["DJANGO_SETTINGS_MODULE", "SECRET_KEY", "DEBUG", "DATABASE_URL", "ALLOWED_HOSTS"]
-    for key in env_keys:
-        value = os.getenv(key, "No está definida")
-        print(f"{key}: {value}")
+    print("🔧 Variables de entorno cargadas:\n")
     
+    env_keys = ["DJANGO_SETTINGS_MODULE", "SECRET_KEY", "DEBUG", "DATABASE_URL", "ALLOWED_HOSTS"]
+    
+    for key in env_keys:
+        value = os.getenv(key, "⚠️ No está definida")
+        print(f"  ✅ {key}: {value}")
+
+    print("\n" + "="*50 + "\n")
+
     # Establecer la configuración de Django
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", settings_module)
 
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:
-        raise ImportError(
-            "Couldn't import Django. Are you sure it's installed and "
-            "available on your PYTHONPATH environment variable? Did you "
-            "forget to activate a virtual environment?"
-        ) from exc
-    
+        print("❌ Error: No se pudo importar Django.")
+        print("Asegúrate de que está instalado y disponible en PYTHONPATH.")
+        print("¿Olvidaste activar el entorno virtual?\n")
+        raise exc
+
+    # Ejecutar Django con los argumentos proporcionados
     execute_from_command_line(sys.argv)
 
 

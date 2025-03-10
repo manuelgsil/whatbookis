@@ -36,6 +36,6 @@ DATABASES = {
 }
 
 # Seguridad en producción
-SECURE_SSL_REDIRECT = False
+""" SECURE_SSL_REDIRECT = False
 CSRF_COOKIE_SECURE = True
-SESSION_COOKIE_SECURE = True
+SESSION_COOKIE_SECURE = True """

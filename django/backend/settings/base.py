@@ -63,7 +63,8 @@ CORS_ALLOWED_ORIGINS = [
 STATIC_URL = '/static/'  # URL base para archivos estáticos
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')  # Carpeta donde se recopilarán los archivos estáticos
 
-LOGGING = {
+# para debuggear deploys en render
+""" LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
     'handlers': {
@@ -79,4 +80,4 @@ LOGGING = {
             'propagate': True,
         },
     },
-}
+} """
