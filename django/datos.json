@@ -1,0 +1,1692 @@
+[
+    {
+        "model": "api.autor",
+        "pk": 1,
+        "fields": {
+            "nombre": "Tolstoy, Leo, graf",
+            "nacimiento": 1828,
+            "fallecimiento": 1910
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 2,
+        "fields": {
+            "nombre": "Hugo, Victor",
+            "nacimiento": 1802,
+            "fallecimiento": 1885
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 3,
+        "fields": {
+            "nombre": "Dickens, Charles",
+            "nacimiento": 1812,
+            "fallecimiento": 1870
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 4,
+        "fields": {
+            "nombre": "Austen, Jane",
+            "nacimiento": 1775,
+            "fallecimiento": 1817
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 5,
+        "fields": {
+            "nombre": "Melville, Herman",
+            "nacimiento": 1819,
+            "fallecimiento": 1891
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 6,
+        "fields": {
+            "nombre": "Flaubert, Gustave",
+            "nacimiento": 1821,
+            "fallecimiento": 1880
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 7,
+        "fields": {
+            "nombre": "Balzac, Honoré de",
+            "nacimiento": 1799,
+            "fallecimiento": 1850
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 8,
+        "fields": {
+            "nombre": "Zola, Émile",
+            "nacimiento": 1840,
+            "fallecimiento": 1902
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 9,
+        "fields": {
+            "nombre": "Forrester, Izola L. (Izola Louise)",
+            "nacimiento": 1878,
+            "fallecimiento": 1944
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 10,
+        "fields": {
+            "nombre": "Hawthorne, Nathaniel",
+            "nacimiento": 1804,
+            "fallecimiento": 1864
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 11,
+        "fields": {
+            "nombre": "Hardy, Thomas",
+            "nacimiento": 1840,
+            "fallecimiento": 1928
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 12,
+        "fields": {
+            "nombre": "Joyce, James",
+            "nacimiento": 1882,
+            "fallecimiento": 1941
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 13,
+        "fields": {
+            "nombre": "Kafka, Franz",
+            "nacimiento": 1883,
+            "fallecimiento": 1924
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 14,
+        "fields": {
+            "nombre": "Proust, Marcel",
+            "nacimiento": 1871,
+            "fallecimiento": 1922
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 15,
+        "fields": {
+            "nombre": "Faulkner, William",
+            "nacimiento": 1897,
+            "fallecimiento": 1962
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 16,
+        "fields": {
+            "nombre": "Huxley, Aldous",
+            "nacimiento": 1894,
+            "fallecimiento": 1963
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 17,
+        "fields": {
+            "nombre": "Mann, Thomas",
+            "nacimiento": 1875,
+            "fallecimiento": 1955
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 18,
+        "fields": {
+            "nombre": "Thiselton-Dyer, T. F. (Thomas Firminger)",
+            "nacimiento": 1848,
+            "fallecimiento": 1923
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 19,
+        "fields": {
+            "nombre": "Hesse, Hermann",
+            "nacimiento": 1877,
+            "fallecimiento": 1962
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 20,
+        "fields": {
+            "nombre": "Woolf, Virginia",
+            "nacimiento": 1882,
+            "fallecimiento": 1941
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 21,
+        "fields": {
+            "nombre": "Dante Alighieri",
+            "nacimiento": 1265,
+            "fallecimiento": 1321
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 22,
+        "fields": {
+            "nombre": "Chaucer, Geoffrey",
+            "nacimiento": 1342,
+            "fallecimiento": 1400
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 23,
+        "fields": {
+            "nombre": "Quevedo, Francisco de",
+            "nacimiento": 1580,
+            "fallecimiento": 1645
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 24,
+        "fields": {
+            "nombre": "Cervantes Saavedra, Miguel de",
+            "nacimiento": 1547,
+            "fallecimiento": 1616
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 25,
+        "fields": {
+            "nombre": "Shakespeare, William",
+            "nacimiento": 1564,
+            "fallecimiento": 1616
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 26,
+        "fields": {
+            "nombre": "Molière",
+            "nacimiento": 1622,
+            "fallecimiento": 1673
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 27,
+        "fields": {
+            "nombre": "Goethe, Johann Wolfgang von",
+            "nacimiento": 1749,
+            "fallecimiento": 1832
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 28,
+        "fields": {
+            "nombre": "Schiller, Friedrich",
+            "nacimiento": 1759,
+            "fallecimiento": 1805
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 29,
+        "fields": {
+            "nombre": "Shelley, Mary Wollstonecraft",
+            "nacimiento": 1797,
+            "fallecimiento": 1851
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 30,
+        "fields": {
+            "nombre": "Brontë, Charlotte",
+            "nacimiento": 1816,
+            "fallecimiento": 1855
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 31,
+        "fields": {
+            "nombre": "Brontë, Emily",
+            "nacimiento": 1818,
+            "fallecimiento": 1848
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 32,
+        "fields": {
+            "nombre": "James, Henry",
+            "nacimiento": 1843,
+            "fallecimiento": 1916
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 33,
+        "fields": {
+            "nombre": "Twain, Mark",
+            "nacimiento": 1835,
+            "fallecimiento": 1910
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 34,
+        "fields": {
+            "nombre": "Turgenev, Ivan Sergeevich",
+            "nacimiento": 1818,
+            "fallecimiento": 1883
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 35,
+        "fields": {
+            "nombre": "Patterson, J. G",
+            "nacimiento": null,
+            "fallecimiento": null
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 36,
+        "fields": {
+            "nombre": "Wilde, Oscar",
+            "nacimiento": 1854,
+            "fallecimiento": 1900
+        }
+    },
+    {
+        "model": "api.autor",
+        "pk": 37,
+        "fields": {
+            "nombre": "Bradbury, Ray",
+            "nacimiento": 1920,
+            "fallecimiento": 2012
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 3,
+        "fields": {
+            "id_proyecto_gutenberg": 135,
+            "titulo": "Les Misérables",
+            "titulo_es": "Les Misérables",
+            "titulo_IA": null,
+            "pista_IA": "Una historia donde la ley, la redención y la revolución se cruzan con la miseria.",
+            "temas": [
+                "Epic literature",
+                "Ex-convicts -- Fiction",
+                "Historical fiction",
+                "Orphans -- Fiction",
+                "Paris (France) -- Fiction"
+            ],
+            "autores": [
+                2
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 11014,
+            "enlace": "https://www.gutenberg.org/ebooks/135.html.images",
+            "primer_parrafo_en": "\n    In 1815, M. Charles-François-Bienvenu Myriel was Bishop of D—— He was an old man of about seventy-five years of age; he had occupied the see of D—— since 1806.\n\n    Although this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese. True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do. M. Myriel was the son of a councillor of the Parliament of Aix; hence he belonged to the nobility of the bar. It was said that his father, destining him to be the heir of his own post, had married him at a very early age, eighteen or twenty, in accordance with a custom which is rather widely prevalent in parliamentary families. In spite of this marriage, however, it was said that Charles Myriel created a great deal of talk. He was well formed, though rather short in stature, elegant, graceful, intelligent; the whole of the first portion of his life had been devoted to the world and to gallantry.\n    ",
+            "primer_parrafo_es": "En 1815, M. Charles-François-Bienvenu Myriel era obispo de D—\r\nEra un anciano de unos setenta y cinco años; Había ocupado el\r\nver D—— desde 1806."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 5,
+        "fields": {
+            "id_proyecto_gutenberg": 46,
+            "titulo": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+            "titulo_es": "Un villancico en prosa; Ser una historia fantasma de Navidad",
+            "titulo_IA": "A Christmas Carol",
+            "pista_IA": "Un relato navideño sobre la redención de un hombre avaro a través de la visita de tres fantasmas.",
+            "temas": [
+                "Christmas stories",
+                "Ghost stories",
+                "London (England) -- Fiction",
+                "Misers -- Fiction",
+                "Poor families -- Fiction",
+                "Scrooge, Ebenezer (Fictitious character) -- Fiction",
+                "Sick children -- Fiction"
+            ],
+            "autores": [
+                3
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 28507,
+            "enlace": "https://www.gutenberg.org/ebooks/46.html.images",
+            "primer_parrafo_en": "Marley was dead: to begin with. There is no\r\n        doubt whatever about that. The register of his burial was signed by the\r\n        clergyman, the clerk, the undertaker, and the chief mourner. Scrooge\r\n        signed it: and Scrooge’s name was good upon ’Change, for\r\n        anything he chose to put his hand to. Old Marley was as dead as a\r\n        door-nail.",
+            "primer_parrafo_es": "Marley estaba muerto: para empezar. No hay\r\n        duda de eso sobre eso. El registro de su entierro fue firmado por el\r\n        Clérigo, el empleado, el Undertaker y el jefe de dolores. Escrooge\r\n        lo firmó: y el nombre de Scrooge fue bueno tras el cambio, para\r\n        Cualquier cosa a la que eligió poner su mano. El viejo Marley estaba tan muerto como un\r\n        muerto."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 6,
+        "fields": {
+            "id_proyecto_gutenberg": 98,
+            "titulo": "A Tale of Two Cities",
+            "titulo_es": "Una historia de dos ciudades",
+            "titulo_IA": null,
+            "pista_IA": "Una historia de sacrificio, resurrección y la Revolución Francesa, ambientada en París y Londres.",
+            "temas": [
+                "British -- France -- Paris -- Fiction",
+                "Executions and executioners -- Fiction",
+                "France -- History -- Revolution, 1789-1799 -- Fiction",
+                "French -- England -- London -- Fiction",
+                "Historical fiction",
+                "London (England) -- History -- 18th century -- Fiction",
+                "Lookalikes -- Fiction",
+                "Paris (France) -- History -- 1789-1799 -- Fiction",
+                "War stories"
+            ],
+            "autores": [
+                3
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 24497,
+            "enlace": "https://www.gutenberg.org/ebooks/98.html.images",
+            "primer_parrafo_en": "With drooping heads and tremulous tails, they mashed their way through the\r\n      thick mud, floundering and stumbling between whiles, as if they were\r\n      falling to pieces at the larger joints. As often as the driver rested them\r\n      and brought them to a stand, with a wary “Wo-ho! so-ho-then!” the near\r\n      leader violently shook his head and everything upon it—like an\r\n      unusually emphatic horse, denying that the coach could be got up the hill.\r\n      Whenever the leader made this rattle, the passenger started, as a nervous\r\n      passenger might, and was disturbed in mind.",
+            "primer_parrafo_es": "Fue el mejor de los tiempos, fue el peor de los tiempos, fue la edad de\r\n      sabiduría, era la era de la tontería, era la época de la creencia, era\r\n      La época de la incredulidad, fue la temporada de Light, fue la temporada\r\n      de la oscuridad, fue la primavera de la esperanza, fue el invierno de la desesperación, nosotros\r\n      Tenía todo antes que nosotros, no teníamos nada antes que nosotros, todos íbamos a ir\r\n      Directo al cielo, todos íbamos directamente hacia el otro lado, en breve,\r\n      El período fue tan lejos como el período presente, que algunos de sus más ruidosos\r\n      Las autoridades insistieron en que se recibiera, por el bien o por el mal, en el\r\n      Grado superlativo de comparación solamente."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 7,
+        "fields": {
+            "id_proyecto_gutenberg": 1400,
+            "titulo": "Great Expectations",
+            "titulo_es": "Grandes expectativas",
+            "titulo_IA": null,
+            "pista_IA": "La historia de un huérfano llamado Pip, su madurez, y la búsqueda de su lugar en la sociedad y en el corazón de una dama.",
+            "temas": [
+                "Benefactors -- Fiction",
+                "Bildungsromans",
+                "England -- Fiction",
+                "Ex-convicts -- Fiction",
+                "Man-woman relationships -- Fiction",
+                "Orphans -- Fiction",
+                "Revenge -- Fiction",
+                "Young men -- Fiction"
+            ],
+            "autores": [
+                3
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 23578,
+            "enlace": "https://www.gutenberg.org/ebooks/1400.html.images",
+            "primer_parrafo_en": "My\r\nfather’s family name being Pirrip, and my Christian name Philip, my infant\r\ntongue could make of both names nothing longer or more explicit than Pip. So, I\r\ncalled myself Pip, and came to be called Pip.",
+            "primer_parrafo_es": "Mi\r\nEl apellido del padre es Pirrip, y mi nombre cristiano Philip, mi bebé\r\nLa lengua podría hacer ambos nombres nada más o más explícitos que PIP. Entonces yo\r\nme llamó Pip y me llamaron Pip."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 8,
+        "fields": {
+            "id_proyecto_gutenberg": 1342,
+            "titulo": "Pride and Prejudice",
+            "titulo_es": "Orgullo y prejuicio",
+            "titulo_IA": null,
+            "pista_IA": "Una novela clásica sobre los malentendidos y las relaciones amorosas.",
+            "temas": [
+                "Courtship -- Fiction",
+                "Domestic fiction",
+                "England -- Fiction",
+                "Love stories",
+                "Sisters -- Fiction",
+                "Social classes -- Fiction",
+                "Young women -- Fiction"
+            ],
+            "autores": [
+                4
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 49617,
+            "enlace": "https://www.gutenberg.org/ebooks/1342.html.images",
+            "primer_parrafo_en": "IT is a truth universally acknowledged, that a single man in possession\r\nof a good fortune must be in want of a wife.",
+            "primer_parrafo_es": "Es una verdad universalmente reconocida, que un solo hombre en posesión\r\nde una buena fortuna debe ser en la falta de una esposa."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 9,
+        "fields": {
+            "id_proyecto_gutenberg": 158,
+            "titulo": "Emma",
+            "titulo_es": "Emma",
+            "titulo_IA": null,
+            "pista_IA": "Una mujer que juega con los hilos del amor descubre que también está atrapada en ellos.",
+            "temas": [
+                "Bildungsromans",
+                "England -- Fiction",
+                "Fathers and daughters -- Fiction",
+                "Female friendship -- Fiction",
+                "Humorous stories",
+                "Love stories",
+                "Mate selection -- Fiction",
+                "Young women -- Fiction"
+            ],
+            "autores": [
+                4
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 8690,
+            "enlace": "https://www.gutenberg.org/ebooks/158.html.images",
+            "primer_parrafo_en": "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy\r\ndisposition, seemed to unite some of the best blessings of existence; and had\r\nlived nearly twenty-one years in the world with very little to distress or vex\r\nher.",
+            "primer_parrafo_es": "Emma Woodhouse, guapo, inteligente y rica, con un hogar cómodo y feliz\r\nLa disposición parecía unir algunas de las mejores bendiciones de la existencia; y tuvo\r\nvivió casi veintiún años en el mundo con muy poco angustia o vex.\r\nsu."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 10,
+        "fields": {
+            "id_proyecto_gutenberg": 161,
+            "titulo": "Sense and Sensibility",
+            "titulo_es": "Sentido y sensibilidad",
+            "titulo_IA": null,
+            "pista_IA": "El temperamento y la razón en una lucha constante dentro de una misma familia.",
+            "temas": [
+                "Domestic fiction",
+                "England -- Fiction",
+                "England -- Social life and customs -- 19th century -- Fiction",
+                "Gentry -- England -- Fiction",
+                "Inheritance and succession -- Fiction",
+                "Love stories",
+                "Mate selection -- Fiction",
+                "Regency fiction",
+                "Sisters -- Fiction",
+                "Social classes -- Fiction",
+                "Young women -- Fiction"
+            ],
+            "autores": [
+                4
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 8564,
+            "enlace": "https://www.gutenberg.org/ebooks/161.html.images",
+            "primer_parrafo_en": "The family of Dashwood had long been settled in Sussex. Their estate was large,\r\nand their residence was at Norland Park, in the centre of their property,\r\nwhere, for many generations, they had lived in so respectable a manner as to\r\nengage the general good opinion of their surrounding acquaintance. The late\r\nowner of this estate was a single man, who lived to a very advanced age, and\r\nwho for many years of his life, had a constant companion and housekeeper in his\r\nsister. But her death, which happened ten years before his own, produced a\r\ngreat alteration in his home; for to supply her loss, he invited and received\r\ninto his house the family of his nephew Mr. Henry Dashwood, the legal inheritor\r\nof the Norland estate, and the person to whom he intended to bequeath it. In\r\nthe society of his nephew and niece, and their children, the old\r\nGentleman’s days were comfortably spent. His attachment to them all\r\nincreased. The constant attention of Mr. and Mrs. Henry Dashwood to his wishes,\r\nwhich proceeded not merely from interest, but from goodness of heart, gave him\r\nevery degree of solid comfort which his age could receive; and the cheerfulness\r\nof the children added a relish to his existence.",
+            "primer_parrafo_es": "La familia de Dashwood se había establecido durante mucho tiempo en Sussex. Su patrimonio era grande,\r\ny su residencia estaba en Norland Park, en el centro de su propiedad,\r\ndonde, durante muchas generaciones, habían vivido de una manera tan respetable como para\r\nInvolucre la buena opinión general de su conocido circundante. El fallecido\r\nEl propietario de esta finca era un hombre soltero, que vivía hasta una edad muy avanzada, y\r\nquien durante muchos años de su vida, tuvo un compañero constante y ama de llaves en su\r\nhermana. Pero su muerte, que ocurrió diez años antes de la suya, produjo un\r\ngran alteración en su hogar; para suministrar su pérdida, él invitó y recibió\r\nEn su casa la familia de su sobrino Sr. Henry Dashwood, el heredero legal\r\nde la finca de Norland, y la persona a la que tenía la intención de legar. En\r\nla sociedad de su sobrino y sobrina, y sus hijos, los viejos\r\nLos días de caballeros se gastaron cómodamente. Su apego a todos\r\naumentó. La atención constante del Sr. y la Sra. Henry Dashwood a sus deseos,\r\nque procedió no solo por el interés, sino de la bondad del corazón, le dio\r\nCada grado de comodidad sólida que su edad podría recibir; y la alegría\r\nde los niños agregaron un sabor a su existencia."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 11,
+        "fields": {
+            "id_proyecto_gutenberg": 2701,
+            "titulo": "Moby Dick; Or, The Whale",
+            "titulo_es": "Moby Dick; O la ballena",
+            "titulo_IA": "Moby Dick",
+            "pista_IA": "La obsesiva persecución de una ballena blanca por un capitán y su tripulación, explorando temas de destino y venganza.",
+            "temas": [
+                "Adventure stories",
+                "Ahab, Captain (Fictitious character) -- Fiction",
+                "Mentally ill -- Fiction",
+                "Psychological fiction",
+                "Sea stories",
+                "Ship captains -- Fiction",
+                "Whales -- Fiction",
+                "Whaling -- Fiction",
+                "Whaling ships -- Fiction"
+            ],
+            "autores": [
+                5
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 78301,
+            "enlace": "https://www.gutenberg.org/ebooks/2701.html.images",
+            "primer_parrafo_en": "Call me Ishmael. Some years ago—never mind how long precisely—having\r\n      little or no money in my purse, and nothing particular to interest me on\r\n      shore, I thought I would sail about a little and see the watery part of\r\n      the world. It is a way I have of driving off the spleen and regulating the\r\n      circulation. Whenever I find myself growing grim about the mouth; whenever\r\n      it is a damp, drizzly November in my soul; whenever I find myself\r\n      involuntarily pausing before coffin warehouses, and bringing up the rear\r\n      of every funeral I meet; and especially whenever my hypos get such an\r\n      upper hand of me, that it requires a strong moral principle to prevent me\r\n      from deliberately stepping into the street, and methodically knocking\r\n      people’s hats off—then, I account it high time to get to sea as soon\r\n      as I can. This is my substitute for pistol and ball. With a philosophical\r\n      flourish Cato throws himself upon his sword; I quietly take to the ship.\r\n      There is nothing surprising in this. If they but knew it, almost all men\r\n      in their degree, some time or other, cherish very nearly the same feelings\r\n      towards the ocean with me.",
+            "primer_parrafo_es": "Llámame Ismael. Hace algunos años, nunca importa cuánto tiempo precisamente, tenga\r\n      poco o ningún dinero en mi bolso, y nada particular para interesarme en\r\n      costa, pensé que navegaría un poco y vería la parte acuosa de\r\n      el mundo. Es una forma que tengo de conducir del bazo y regular el\r\n      circulación. Cada vez que me encuentro en crecimiento sobre la boca; cuando sea\r\n      Es un noviembre húmedo y llovizado en mi alma; Siempre que me encuentro\r\n      haciendo una pausa involuntaria antes de los almacenes de ataúd y criando la parte trasera\r\n      de cada funeral que encuentro; y especialmente cada vez que mis hypos obtienen tal\r\n      Además de mí, que requiere un principio moral fuerte para evitarme\r\n      de entrar deliberadamente en la calle, y metódicamente tocando\r\n      Los sombreros de la gente apagados: luego, me doy cuenta de llegar al mar tan pronto\r\n      como puedo. Este es mi sustituto de la pistola y la pelota. Con un filosófico\r\n      Flourish Cato se arroja sobre su espada; En silencio llevo al barco.\r\n      No hay nada sorprendente en esto. Si lo sabían, casi todos los hombres\r\n      En su título, en algún momento u otro, aprecia casi los mismos sentimientos\r\n      hacia el océano conmigo."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 12,
+        "fields": {
+            "id_proyecto_gutenberg": 11231,
+            "titulo": "Bartleby, the Scrivener: A Story of Wall-Street",
+            "titulo_es": "Bartleby, The Scrivener: A Story of Wall-street",
+            "titulo_IA": "Bartleby, the Scrivener",
+            "pista_IA": "Historia de un escribiente que responde siempre con 'Preferiría no hacerlo'.",
+            "temas": [
+                "Copyists -- Fiction",
+                "New York (N.Y.) -- Fiction",
+                "Psychological fiction",
+                "Wall Street (New York, N.Y.) -- Fiction",
+                "Young men -- Fiction"
+            ],
+            "autores": [
+                5
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 4539,
+            "enlace": "https://www.gutenberg.org/ebooks/11231.html.images",
+            "primer_parrafo_en": "I am a rather elderly man. The nature of my avocations for the last thirty\r\nyears has brought me into more than ordinary contact with what would seem an\r\ninteresting and somewhat singular set of men, of whom as yet nothing that I\r\nknow of has ever been written:—I mean the law-copyists or scriveners. I\r\nhave known very many of them, professionally and privately, and if I pleased,\r\ncould relate divers histories, at which good-natured gentlemen might smile, and\r\nsentimental souls might weep. But I waive the biographies of all other\r\nscriveners for a few passages in the life of Bartleby, who was a scrivener of\r\nthe strangest I ever saw or heard of. While of other law-copyists I might write\r\nthe complete life, of Bartleby nothing of that sort can be done. I believe that\r\nno materials exist for a full and satisfactory biography of this man. It is an\r\nirreparable loss to literature. Bartleby was one of those beings of whom\r\nnothing is ascertainable, except from the original sources, and in his case\r\nthose are very small. What my own astonished eyes saw of Bartleby, that\r\nis all I know of him, except, indeed, one vague report which will appear in the\r\nsequel.",
+            "primer_parrafo_es": null
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 14,
+        "fields": {
+            "id_proyecto_gutenberg": 2413,
+            "titulo": "Madame Bovary",
+            "titulo_es": "Madame Bovary",
+            "titulo_IA": null,
+            "pista_IA": "Los sueños de escapar de la rutina pueden llevar a un camino sin retorno.",
+            "temas": [
+                "Adultery -- Fiction",
+                "Domestic fiction",
+                "France -- Fiction",
+                "Married women -- Fiction",
+                "Middle class -- Fiction",
+                "Physicians' spouses -- Fiction",
+                "Suicide victims -- Fiction"
+            ],
+            "autores": [
+                6
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 5695,
+            "enlace": "https://www.gutenberg.org/ebooks/2413.html.images",
+            "primer_parrafo_en": "ToMarie-Antoine-Jules Senard\r\n        Member of the Paris Bar, Ex-President of\r\n        the National Assembly, and Former Minister of the Interior",
+            "primer_parrafo_es": "Estábamos en clase cuando entró el jefe de la cabeza, seguido de un \"nuevo compañero\",\r\n       No usar el uniforme escolar, y un servidor escolar que lleva un gran\r\n      escritorio. Los que habían estado dormidos se despertaron, y todos se alzaron como si solo\r\n      sorprendido por su trabajo."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 15,
+        "fields": {
+            "id_proyecto_gutenberg": 1253,
+            "titulo": "A Simple Soul",
+            "titulo_es": "Un alma simple",
+            "titulo_IA": "A Simple Heart",
+            "pista_IA": "Historia de una mujer humilde y su inquebrantable devoción.",
+            "temas": [
+                "Fiction"
+            ],
+            "autores": [
+                6
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 873,
+            "enlace": "https://www.gutenberg.org/ebooks/1253.html.images",
+            "primer_parrafo_en": "For half a century the housewives of Pont-l’Eveque had envied Madame\r\n      Aubain her servant Felicite.",
+            "primer_parrafo_es": "Durante medio siglo, las amas de casa de Pont-l’eveque habían envidiado a Madame\r\n      Aubain su sirviente Felicite."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 16,
+        "fields": {
+            "id_proyecto_gutenberg": 34828,
+            "titulo": "Sentimental Education; Or, The History of a Young Man. Volume 1",
+            "titulo_es": "Educación sentimental; O, la historia de un joven. Volumen 1",
+            "titulo_IA": "Sentimental Education",
+            "pista_IA": "Crónica del desencanto de un joven en la sociedad francesa del siglo XIX.",
+            "temas": [
+                "France -- History -- February Revolution, 1848 -- Fiction",
+                "Married women -- Fiction",
+                "Paris (France) -- Fiction",
+                "Paris (France) -- History -- June Days, 1848 -- Fiction",
+                "Unrequited love -- Fiction",
+                "Young men -- Fiction"
+            ],
+            "autores": [
+                6
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 713,
+            "enlace": "https://www.gutenberg.org/ebooks/34828.html.images",
+            "primer_parrafo_en": "On the 15th of September, 1840, about six o'clock in the morning, the\r\nVille de Montereau, just on the point of starting, was sending forth\r\ngreat whirlwinds of smoke, in front of the Quai St. Bernard.",
+            "primer_parrafo_es": "El 15 de septiembre de 1840, alrededor de las seis de la mañana, el\r\nVille de Montereau, justo a punto de comenzar, estaba enviando\r\nGrandes torbellinos de humo, frente al Quai St. Bernard."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 21,
+        "fields": {
+            "id_proyecto_gutenberg": 56528,
+            "titulo": "Germinal",
+            "titulo_es": "Germinal",
+            "titulo_IA": null,
+            "pista_IA": "Bajo tierra, en la oscuridad, germina la semilla de la rebelión.",
+            "temas": [
+                "Coal miners -- Fiction",
+                "Coal mines and mining -- Fiction",
+                "France, Northern -- Fiction",
+                "Labor disputes -- Fiction",
+                "Political fiction",
+                "Strikes and lockouts -- Fiction"
+            ],
+            "autores": [
+                8
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1038,
+            "enlace": "https://www.gutenberg.org/ebooks/56528.html.images",
+            "primer_parrafo_en": "Over the open plain, beneath a starless sky as dark and thick as ink,\r\na man walked alone along the highway from Marchiennes to Montsou, a\r\nstraight paved road ten kilometres in length, intersecting the beetroot\r\nfields. He could not even see the black soil before him, and only felt\r\nthe immense flat horizon by the gusts of March wind, squalls as strong\r\nas on the sea, and frozen from sweeping leagues of marsh and naked\r\nearth. No tree could be seen against the sky, and the road unrolled as\r\nstraight as a pier in the midst of the blinding spray of darkness.",
+            "primer_parrafo_es": "Sobre la llanura abierta, debajo de un cielo sin estrellas tan oscuro y grueso como la tinta,\r\nUn hombre caminó solo por la carretera desde Marchiennes hasta Montsou, un\r\nrecta ruta pavimentada diez kilómetros de longitud, cruzando la remolacha\r\ncampos. Ni siquiera podía ver el suelo negro ante él, y solo sintió\r\nEl inmenso horizonte plano por las ráfagas del viento de marzo, los chubas como fuertes\r\ncomo en el mar, y congelado por las ligas barrido de pantano y desnudo\r\ntierra. No se podía ver ningún árbol contra el cielo, y el camino se desenrollaba como\r\nDirecto como un muelle en medio del aerosol cegador de la oscuridad."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 23,
+        "fields": {
+            "id_proyecto_gutenberg": 25344,
+            "titulo": "The Scarlet Letter",
+            "titulo_es": "La letra escarlata",
+            "titulo_IA": null,
+            "pista_IA": "Una historia sobre el pecado, la culpa y el castigo en la Puritana Nueva Inglaterra.",
+            "temas": [
+                "Adultery -- Fiction",
+                "Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction",
+                "Clergy -- Fiction",
+                "Historical fiction",
+                "Illegitimate children -- Fiction",
+                "Married women -- Fiction",
+                "Psychological fiction",
+                "Puritans -- Fiction",
+                "Revenge -- Fiction",
+                "Triangles (Interpersonal relations) -- Fiction",
+                "Women immigrants -- Fiction"
+            ],
+            "autores": [
+                10
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 30540,
+            "enlace": "https://www.gutenberg.org/ebooks/25344.html.images",
+            "primer_parrafo_en": "A throng of bearded men,\r\nin sad-colored garments, and\r\ngray, steeple-crowned hats, intermixed\r\nwith women, some\r\nwearing hoods and others\r\nbareheaded, was assembled in\r\nfront of a wooden edifice, the\r\ndoor of which was heavily\r\ntimbered with oak, and studded\r\nwith iron spikes.",
+            "primer_parrafo_es": "Una multitud de hombres barbudos,\r\nen prendas de color triste, y\r\nSombreros grises de corona, entremezclados\r\ncon mujeres, algunas\r\nusando capuchas y otros\r\nBalage, fue ensamblado en\r\nfrente a un edificio de madera, el\r\nla puerta de la cual era fuertemente\r\nmaderero con roble y tachonado\r\ncon picos de hierro."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 24,
+        "fields": {
+            "id_proyecto_gutenberg": 512,
+            "titulo": "Mosses from an old manse",
+            "titulo_es": "Mosses de un viejo manse",
+            "titulo_IA": "Mosses from an Old Manse",
+            "pista_IA": "Colección de relatos de un célebre autor estadounidense del siglo XIX.",
+            "temas": [
+                "New England -- Social life and customs -- Fiction",
+                "Short stories, American"
+            ],
+            "autores": [
+                10
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 3328,
+            "enlace": "https://www.gutenberg.org/ebooks/512.html.images",
+            "primer_parrafo_en": "Between two tall gate-posts of rough-hewn stone (the gate itself having fallen\r\nfrom its hinges at some unknown epoch) we beheld the gray front of the old\r\nparsonage, terminating the vista of an avenue of black-ash trees. It was now a\r\ntwelvemonth since the funeral procession of the venerable clergyman, its last\r\ninhabitant, had turned from that gateway towards the village burying-ground.\r\nThe wheel-track leading to the door, as well as the whole breadth of the\r\navenue, was almost overgrown with grass, affording dainty mouthfuls to two or\r\nthree vagrant cows and an old white horse who had his own living to pick up\r\nalong the roadside. The glimmering shadows that lay half asleep between the\r\ndoor of the house and the public highway were a kind of spiritual medium, seen\r\nthrough which the edifice had not quite the aspect of belonging to the material\r\nworld. Certainly it had little in common with those ordinary abodes which stand\r\nso imminent upon the road that every passer-by can thrust his head, as it were,\r\ninto the domestic circle. From these quiet windows the figures of passing\r\ntravellers looked too remote and dim to disturb the sense of privacy. In its\r\nnear retirement and accessible seclusion, it was the very spot for the\r\nresidence of a clergyman,—a man not estranged from human life, yet\r\nenveloped, in the midst of it, with a veil woven of intermingled gloom and\r\nbrightness. It was worthy to have been one of the time-honored parsonages of\r\nEngland, in which, through many generations, a succession of holy occupants\r\npass from youth to age, and bequeath each an inheritance of sanctity to pervade\r\nthe house and hover over it as with an atmosphere.",
+            "primer_parrafo_es": "Entre dos altos postes de piedra tosta (la puerta en sí ha caído\r\nde sus bisagras en una época desconocida) vimos el frente gris de la vieja\r\nParsonage, que termina la vista de una vía de árboles negros. Ahora era un\r\nDoce de doce desde la procesión fúnebre del venerable clérigo, su último\r\nHabitante, se había vuelto desde esa puerta de entrada hacia el entorno del pueblo.\r\nLa ruta de la rueda que conduce a la puerta, así como a toda la amplitud del\r\nAvenue, estaba casi cubierta de hierba, que ofrecía bocados delicados a dos o\r\ntres vacas vagas y un viejo caballo blanco que tenía su propia vida para recoger\r\na lo largo de la carretera. Las sombras brillantes que quedan medio dormidas entre el\r\nLa puerta de la casa y la carretera pública eran una especie de medio espiritual, visto\r\na través del cual el edificio no tenía el aspecto de pertenecer al material\r\nmundo. Ciertamente tenía poco en común con esas moradas ordinarias que se encuentran\r\ntan inminente en el camino que cada transeúnte puede empujar su cabeza, por así decirlo,\r\nen el círculo doméstico. Desde estas ventanas tranquilas las figuras de paso\r\nLos viajeros parecían demasiado remotos y tenue para perturbar la sensación de privacidad. En su\r\nCerca de la jubilación y el aislamiento accesible, era el lugar para el\r\nresidencia de un clérigo, un hombre no separado de la vida humana, todavía\r\nenvuelto, en medio de la misma, con un velo tejido de penumbra entremezclada y\r\nbrillo. Fue digno de haber sido uno de los parsonages tradicionales de\r\nInglaterra, en la que, a través de muchas generaciones, una sucesión de ocupantes sagrados\r\npasar de la juventud a la edad, y legar cada una herencia de santidad para impregnar\r\nla casa y flotar sobre ella como con una atmósfera."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 25,
+        "fields": {
+            "id_proyecto_gutenberg": 13707,
+            "titulo": "Twice-told tales",
+            "titulo_es": "Cuentos de dos veces",
+            "titulo_IA": "Twice-Told Tales",
+            "pista_IA": "Cuentos melancólicos y góticos de un maestro de la literatura americana.",
+            "temas": [
+                "Historical fiction, American",
+                "New England -- Social life and customs -- Fiction",
+                "Short stories"
+            ],
+            "autores": [
+                10
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1974,
+            "enlace": "https://www.gutenberg.org/ebooks/13707.html.images",
+            "primer_parrafo_en": "There was once a time when New England groaned under the actual pressure of\r\nheavier wrongs than those threatened ones which brought on the Revolution.\r\nJames II., the bigoted successor of Charles the Voluptuous, had annulled the\r\ncharters of all the colonies and sent a harsh and unprincipled soldier to take\r\naway our liberties and endanger our religion. The administration of Sir Edmund\r\nAndros lacked scarcely a single characteristic of tyranny—a governor and\r\ncouncil holding office from the king and wholly independent of the country;\r\nlaws made and taxes levied without concurrence of the people, immediate or by\r\ntheir representatives; the rights of private citizens violated and the titles\r\nof all landed property declared void; the voice of complaint stifled by\r\nrestrictions on the press; and finally, disaffection overawed by the first band\r\nof mercenary troops that ever marched on our free soil. For two years our\r\nancestors were kept in sullen submission by that filial love which had\r\ninvariably secured their allegiance to the mother-country, whether its head\r\nchanced to be a Parliament, Protector or popish monarch. Till these evil times,\r\nhowever, such allegiance had been merely nominal, and the colonists had ruled\r\nthemselves, enjoying far more freedom than is even yet the privilege of the\r\nnative subjects of Great Britain.",
+            "primer_parrafo_es": "Hubo una vez en que Nueva Inglaterra gimió bajo la presión real de\r\nLos errores más pesados ​​que los amenazados que trajeron la revolución.\r\nJames II., El sucesor intolerante de Charles el voluptuoso, había anulado el\r\ncartas de todas las colonias y envió a un soldado duro y sin presenciado para tomar\r\nlejos de nuestras libertades y poner en peligro nuestra religión. La administración de Sir Edmund\r\nAndros carecía apenas una sola característica de la tiranía: un gobernador y\r\nConsejo que ocupa el cargo del rey y totalmente independiente del país;\r\nlas leyes hechas y los impuestos recaudados sin concurrencia de la gente, inmediata o por\r\nsus representantes; Los derechos de los ciudadanos privados violaron y los títulos\r\nde todas las propiedades terrestres declaradas nulas; la voz de la queja sofocada por\r\nrestricciones a la prensa; Y finalmente, la desafección se sobreventa por la primera banda\r\nde tropas mercenarias que alguna vez marcharon en nuestro suelo libre. Durante dos años nuestro\r\nLos antepasados ​​se mantuvieron en sumisión hoscas por ese amor filial que tenía\r\nInvariablemente aseguró su lealtad a la madre país, ya sea que su cabeza\r\nColegio ser un parlamento, protector o monarca popish. Hasta estos tiempos malvados,\r\nSin embargo, tal lealtad había sido meramente nominal, y los colonos habían gobernado\r\nellos mismos, disfrutando mucha más libertad de la que es el privilegio del\r\nSujetos nativos de Gran Bretaña."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 26,
+        "fields": {
+            "id_proyecto_gutenberg": 110,
+            "titulo": "Tess of the d'Urbervilles: A Pure Woman",
+            "titulo_es": "Tess of the d'Urbervilles: una mujer pura",
+            "titulo_IA": "Tess of the d'Urbervilles",
+            "pista_IA": "Trágica historia de una joven y su lucha contra el destino y la moral victoriana.",
+            "temas": [
+                "Children of clergy -- Fiction",
+                "Children of the rich -- Fiction",
+                "Didactic fiction",
+                "Man-woman relationships -- Fiction",
+                "Pastoral fiction",
+                "Poor families -- Fiction",
+                "Rape victims -- Fiction",
+                "Triangles (Interpersonal relations) -- Fiction",
+                "Wessex (England) -- Fiction",
+                "Women household employees -- Fiction",
+                "Women murderers -- Fiction"
+            ],
+            "autores": [
+                11
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 4876,
+            "enlace": "https://www.gutenberg.org/ebooks/110.html.images",
+            "primer_parrafo_en": "On an evening in the latter part of May a middle-aged man was walking homeward\r\nfrom Shaston to the village of Marlott, in the adjoining Vale of Blakemore, or\r\nBlackmoor. The pair of legs that carried him were rickety, and there was a bias\r\nin his gait which inclined him somewhat to the left of a straight line. He\r\noccasionally gave a smart nod, as if in confirmation of some opinion, though he\r\nwas not thinking of anything in particular. An empty egg-basket was slung upon\r\nhis arm, the nap of his hat was ruffled, a patch being quite worn away at its\r\nbrim where his thumb came in taking it off. Presently he was met by an elderly\r\nparson astride on a gray mare, who, as he rode, hummed a wandering tune.",
+            "primer_parrafo_es": "Una noche en la última parte de mayo, un hombre de mediana edad caminaba hacia casa\r\ndesde Shaston hasta el pueblo de Marlott, en el valle contiguo de Blakemore, o\r\nBlackmoor. El par de piernas que lo llevaban eran desvencijadas, y había un sesgo\r\nen su marcha que lo inclinó un poco a la izquierda de una línea recta. Él\r\nDe vez en cuando asintió inteligente, como si confirmara alguna opinión, aunque él\r\nNo estaba pensando en nada en particular. Una cesta de huevo vacía fue colgada\r\nsu brazo, la siesta de su sombrero estaba revuelto, un parche estaba bastante desgastado en su\r\nEl borde donde se le quitó el pulgar. Actualmente fue recibido por un anciano\r\nParson a horcajadas sobre una yegua gris, quien, mientras cabalgaba, tarareaba una melodía errante."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 27,
+        "fields": {
+            "id_proyecto_gutenberg": 143,
+            "titulo": "The Mayor of Casterbridge",
+            "titulo_es": "El alcalde de Casterbridge",
+            "titulo_IA": null,
+            "pista_IA": "Un hombre que vende a su esposa en un arrebato y su lucha por la redención.",
+            "temas": [
+                "Atonement -- Fiction",
+                "Fathers and daughters -- Fiction",
+                "Mayors -- Fiction",
+                "Men -- England -- Fiction",
+                "Psychological fiction",
+                "Runaway husbands -- Fiction",
+                "Wessex (England) -- Fiction"
+            ],
+            "autores": [
+                11
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1814,
+            "enlace": "https://www.gutenberg.org/ebooks/143.html.images",
+            "primer_parrafo_en": "One evening of late summer, before the nineteenth century had reached one-third\r\nof its span, a young man and woman, the latter carrying a child, were\r\napproaching the large village of Weydon-Priors, in Upper Wessex, on foot. They\r\nwere plainly but not ill clad, though the thick hoar of dust which had\r\naccumulated on their shoes and garments from an obviously long journey lent a\r\ndisadvantageous shabbiness to their appearance just now.",
+            "primer_parrafo_es": "Una noche de fines del verano, antes del siglo XIX había alcanzado un tercio\r\nde su lapso, un joven y una mujer, este último que llevaba a un hijo, fueron\r\nacercándose al gran pueblo de Weydon-Priors, en Upper Wessex, a pie. Ellos\r\nestaban claros pero no mal revestidos, aunque el grueso ruido de polvo que tenía\r\nacumulado en sus zapatos y prendas de un viaje obviamente largo prestado un\r\nDesventigoso en el malhato a su apariencia en este momento."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 28,
+        "fields": {
+            "id_proyecto_gutenberg": 107,
+            "titulo": "Far from the Madding Crowd",
+            "titulo_es": "Lejos de la multitud enloquecida",
+            "titulo_IA": null,
+            "pista_IA": "Historia de una mujer independiente y sus pretendientes en la campiña inglesa.",
+            "temas": [
+                "Didactic fiction",
+                "Farm life -- Fiction",
+                "Love stories",
+                "Pastoral fiction",
+                "Triangles (Interpersonal relations) -- Fiction",
+                "Wessex (England) -- Fiction",
+                "Women farmers -- Fiction"
+            ],
+            "autores": [
+                11
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1801,
+            "enlace": "https://www.gutenberg.org/ebooks/107.html.images",
+            "primer_parrafo_en": "When Farmer Oak smiled, the corners of his mouth spread till they were within\r\nan unimportant distance of his ears, his eyes were reduced to chinks, and\r\ndiverging wrinkles appeared round them, extending upon his countenance like the\r\nrays in a rudimentary sketch of the rising sun.",
+            "primer_parrafo_es": "Cuando el agricultor Oak sonrió, las esquinas de su boca se extendieron hasta que estuvieron dentro\r\nUna distancia sin importancia de sus oídos, sus ojos se redujeron a grietas, y\r\nLas arrugas divergentes aparecieron alrededor de ellas, extendiéndose sobre su semblante como el\r\nRayos en un bosquejo rudimentario del sol naciente."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 29,
+        "fields": {
+            "id_proyecto_gutenberg": 4300,
+            "titulo": "Ulysses",
+            "titulo_es": "Ulises",
+            "titulo_IA": null,
+            "pista_IA": "Un recorrido urbano que se convierte en un viaje épico de la mente.",
+            "temas": [
+                "Alienation (Social psychology) -- Fiction",
+                "Artists -- Fiction",
+                "City and town life -- Fiction",
+                "Domestic fiction",
+                "Dublin (Ireland) -- Fiction",
+                "Epic literature",
+                "Jewish men -- Fiction",
+                "Male friendship -- Fiction",
+                "Married people -- Fiction",
+                "Psychological fiction"
+            ],
+            "autores": [
+                12
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 15220,
+            "enlace": "https://www.gutenberg.org/ebooks/4300.html.images",
+            "primer_parrafo_en": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather\r\non which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled,\r\nwas sustained gently behind him on the mild morning air. He held the bowl aloft\r\nand intoned:",
+            "primer_parrafo_es": "Majestuoso y regordete buck mulligan vino de la escalera, con un tazón de espuma\r\nen el que un espejo y una navaja de afeitar yacían cruzadas. Un aderezo amarillo, sin ser considerado,\r\nfue sostenido suavemente detrás de él en el suave aire de la mañana. Sostuvo el tazón en alto\r\ny entonado:"
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 30,
+        "fields": {
+            "id_proyecto_gutenberg": 2814,
+            "titulo": "Dubliners",
+            "titulo_es": "Dublino",
+            "titulo_IA": null,
+            "pista_IA": "Retazos de vidas comunes que esconden profundos abismos internos.",
+            "temas": [
+                "Dublin (Ireland) -- Fiction",
+                "Short stories"
+            ],
+            "autores": [
+                12
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 12350,
+            "enlace": "https://www.gutenberg.org/ebooks/2814.html.images",
+            "primer_parrafo_en": "There was no hope for him this time: it was the third stroke. Night after night\r\nI had passed the house (it was vacation time) and studied the lighted square of\r\nwindow: and night after night I had found it lighted in the same way, faintly\r\nand evenly. If he was dead, I thought, I would see the reflection of candles on\r\nthe darkened blind for I knew that two candles must be set at the head of a\r\ncorpse. He had often said to me: “I am not long for this world,”\r\nand I had thought his words idle. Now I knew they were true. Every night as I\r\ngazed up at the window I said softly to myself the word paralysis. It had\r\nalways sounded strangely in my ears, like the word gnomon in the Euclid and the\r\nword simony in the Catechism. But now it sounded to me like the name of some\r\nmaleficent and sinful being. It filled me with fear, and yet I longed to be\r\nnearer to it and to look upon its deadly work.",
+            "primer_parrafo_es": "Esta vez no había esperanza: fue el tercer derrame cerebral. Noche tras otra\r\nPasé la casa (era de vacaciones) y estudié la plaza iluminada de\r\nVentana: y noche tras noche lo encontré iluminado de la misma manera, débilmente\r\nY uniformemente. Si estuviera muerto, pensé, vería el reflejo de las velas en\r\nLa ciega oscura porque sabía que dos velas debían establecerse a la cabeza de un\r\ncadáver. A menudo me había dicho: \"No tengo mucho tiempo para este mundo\",\r\nY había pensado en sus palabras inactivas. Ahora sabía que eran ciertos. Todas las noches como yo\r\nMiré en la ventana, me dije suavemente la palabra parálisis. Tenía\r\nsiempre sonaba extrañamente en mis oídos, como la palabra gnomon en el euclid y el\r\nPalabra simonía en el catecismo. Pero ahora me sonaba como el nombre de algunos\r\nSer Maléfica y pecaminosa. Me llenó de miedo y, sin embargo, anhelaba ser\r\nmás cerca y para mirar su trabajo mortal."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 31,
+        "fields": {
+            "id_proyecto_gutenberg": 4217,
+            "titulo": "A Portrait of the Artist as a Young Man",
+            "titulo_es": "Un retrato del artista cuando era joven",
+            "titulo_IA": null,
+            "pista_IA": "Autobiografía novelada de un joven irlandés en busca de su identidad artística.",
+            "temas": [
+                "Artists -- Fiction",
+                "Autobiographical fiction",
+                "Bildungsromans",
+                "Dublin (Ireland) -- Fiction",
+                "Young men -- Fiction"
+            ],
+            "autores": [
+                12
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 6143,
+            "enlace": "https://www.gutenberg.org/ebooks/4217.html.images",
+            "primer_parrafo_en": "Once upon a time and a very good time it was there was a moocow coming\r\ndown along the road and this moocow that was coming down along the road\r\nmet a nicens little boy named baby tuckoo....",
+            "primer_parrafo_es": "Érase una vez y un muy buen momento fue que llegaba un moocow\r\na lo largo del camino y este moocow que estaba bajando por el camino\r\nConocí a un niño nicens llamado Baby Tuckoo ..."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 32,
+        "fields": {
+            "id_proyecto_gutenberg": 5200,
+            "titulo": "Metamorphosis",
+            "titulo_es": "Metamorfosis",
+            "titulo_IA": "The Metamorphosis",
+            "pista_IA": "Un hombre se convierte en un insecto gigante y enfrenta el aislamiento y la incomprensión de su familia.",
+            "temas": [
+                "Metamorphosis -- Fiction",
+                "Psychological fiction"
+            ],
+            "autores": [
+                13
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 28446,
+            "enlace": "https://www.gutenberg.org/ebooks/5200.html.images",
+            "primer_parrafo_en": "One morning, when Gregor Samsa woke from troubled dreams, he found himself\r\ntransformed in his bed into a horrible vermin. He lay on his armour-like back,\r\nand if he lifted his head a little he could see his brown belly, slightly domed\r\nand divided by arches into stiff sections. The bedding was hardly able to cover\r\nit and seemed ready to slide off any moment. His many legs, pitifully thin\r\ncompared with the size of the rest of him, waved about helplessly as he looked.",
+            "primer_parrafo_es": "Una mañana, cuando Gregor Samsa se despertó de sueños problemáticos, se encontró a sí mismo\r\nTransformado en su cama en una horrible alimentación. Se tumbó sobre su espalda como armada,\r\ny si levantaba la cabeza un poco, podía ver su vientre marrón, ligeramente abovedado\r\ny dividido por arcos en secciones rígidas. La ropa de cama apenas pudo cubrir\r\ny parecía listo para deslizarse en cualquier momento. Sus muchas piernas, lamentablemente delgadas\r\nEn comparación con el tamaño del resto de él, saludó a impotencia mientras miraba."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 33,
+        "fields": {
+            "id_proyecto_gutenberg": 7849,
+            "titulo": "The Trial",
+            "titulo_es": "El juicio",
+            "titulo_IA": null,
+            "pista_IA": "Un hombre es arrestado sin saber por qué en un mundo burocrático absurdo.",
+            "temas": [
+                "Allegories",
+                "Trials -- Fiction"
+            ],
+            "autores": [
+                13
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 4122,
+            "enlace": "https://www.gutenberg.org/ebooks/7849.html.images",
+            "primer_parrafo_en": "Someone must have been telling lies about Josef K., he knew he had done\r\nnothing wrong but, one morning, he was arrested. Every day at eight in\r\nthe morning he was brought his breakfast by Mrs. Grubach's cook—Mrs.\r\nGrubach was his landlady—but today she didn't come. That had never\r\nhappened before. K. waited a little while, looked from his pillow at the\r\nold woman who lived opposite and who was watching him with an\r\ninquisitiveness quite unusual for her, and finally, both hungry and\r\ndisconcerted, rang the bell. There was immediately a knock at the door\r\nand a man entered. He had never seen the man in this house before. He\r\nwas slim but firmly built, his clothes were black and close-fitting,\r\nwith many folds and pockets, buckles and buttons and a belt, all of\r\nwhich gave the impression of being very practical but without making it\r\nvery clear what they were actually for. \"Who are you?\" asked K., sitting\r\nhalf upright in his bed. The man, however, ignored the question as if\r\nhis arrival simply had to be accepted, and merely replied, \"You rang?\"\r\n\"Anna should have brought me my breakfast,\" said K. He tried to work\r\nout who the man actually was, first in silence, just through\r\nobservation and by thinking about it, but the man didn't stay still to\r\nbe looked at for very long. Instead he went over to the door, opened it\r\nslightly, and said to someone who was clearly standing immediately\r\nbehind it, \"He\r\nwants Anna to bring him his breakfast.\" There was a little laughter in\r\nthe neighbouring room, it was not clear from the sound of it whether\r\nthere were several people laughing. The strange man could not have\r\nlearned anything from it that he hadn't known already, but now he said\r\nto K., as if making his report \"It is not possible.\" \"It would be the\r\nfirst time that's happened,\" said K., as he jumped out of bed and\r\nquickly pulled on his trousers. \"I want to see who that is in the next\r\nroom, and why it is that Mrs. Grubach has let me be disturbed in this\r\nway.\" It immediately occurred to him that he needn't have said this out\r\nloud, and that he must to some extent have acknowledged their authority\r\nby doing so, but that didn't seem important to him at the time. That, at\r\nleast, is how the stranger took it, as he said, \"Don't you think you'd\r\nbetter stay where you are?\" \"I want neither to stay here nor to be\r\nspoken to by you until you've introduced yourself.\" \"I meant it for your\r\nown good,\" said the stranger and opened the door, this time without\r\nbeing asked. The next room, which K. entered more slowly than he had\r\nintended, looked at first glance exactly the same as it had the previous\r\nevening. It was Mrs. Grubach's living room, over-filled with furniture,\r\ntablecloths, porcelain and photographs. Perhaps there was a little more\r\nspace in there than usual today, but if so it was not immediately\r\nobvious, especially as the main difference was the presence of a man\r\nsitting by the open window with a book from which he now looked up.\r\n\"You should have stayed in your room! Didn't Franz tell you?\" \"And what\r\nis it you want, then?\" said K., looking back and forth between this new\r\nacquaintance and the one named Franz, who had remained in the doorway.\r\nThrough the open window he noticed the old woman again, who had come\r\nclose to the window opposite so that she could continue to see\r\neverything. She was showing an inquisitiveness that really made it seem\r\nlike she was going senile. \"I want to see Mrs. Grubach ...,\" said K.,\r\nmaking a movement as if tearing himself away from the two men—even\r\nthough they were standing well away from him—and wanted to go. \"No,\"\r\nsaid the man at the window, who threw his book down on a coffee table\r\nand stood up. \"You can't go away when you're under arrest.\" \"That's how\r\nit seems,\" said K. \"And why am I under arrest?\" he then asked. \"That's\r\nsomething we're not allowed to tell you. Go into your room and wait\r\nthere. Proceedings are underway and you'll learn about everything all in\r\ngood time. It's not really part of my job to be friendly towards you\r\nlike this, but I hope no-one, apart from Franz, will hear about it, and\r\nhe's been more friendly towards you than he should have been, under the\r\nrules, himself. If you carry on having as much good luck as you have\r\nbeen with your arresting officers then you can reckon on things going\r\nwell with you.\" K. wanted to sit down, but then he saw that, apart from\r\nthe chair by the window, there was nowhere anywhere in the room where he\r\ncould sit. \"You'll get the chance to see for yourself how true all this\r\nis,\" said Franz and both men then walked up to K. They were\r\nsignificantly bigger than him, especially the second man, who frequently\r\nslapped him on the shoulder. The two of them felt K.'s nightshirt, and\r\nsaid he would now have to wear one that was of much lower quality, but\r\nthat they would keep the nightshirt along with his other underclothes\r\nand return them to him if his case turned out well. \"It's better for you\r\nif you give us the things than if you leave them in the storeroom,\" they\r\nsaid. \"Things have a tendency to go missing in the storeroom, and after\r\na certain amount of time they sell things off, whether the case involved\r\nhas come to an end or not. And cases like this can last a long time,\r\nespecially the ones that have been coming up lately. They'd give you the\r\nmoney they got for them, but it wouldn't be very much as it's not what\r\nthey're offered for them when they sell them that counts, it's how much\r\nthey get slipped on the side, and things like that lose their value\r\nanyway when they get passed on from hand to hand, year after year.\" K.\r\npaid hardly any attention to what they were saying, he did not place\r\nmuch value on what he may have still possessed or on who decided what\r\nhappened to them. It was much more important to him to get a clear\r\nunderstanding of his position, but he could not think clearly while\r\nthese people were here, the second policeman's belly—and they could\r\nonly be policemen—looked friendly enough, sticking out towards him, but\r\nwhen K. looked up and saw his dry, bony face it did not seem to fit\r\nwith the body. His strong nose twisted to one side as if ignoring K. and\r\nsharing an understanding with the other policeman. What sort of people\r\nwere these? What were they talking about? What office did they belong\r\nto? K. was living in a free country, after all, everywhere was at peace,\r\nall laws were decent and were upheld, who was it who dared accost him in\r\nhis own home. He was always inclined to take life as lightly as he\r\ncould, to cross bridges when he came to them, pay no heed for the\r\nfuture, even when everything seemed under threat. But here that did not\r\nseem the right thing to do. He could have taken it all as a joke, a big\r\njoke set up by his colleagues at the bank for some unknown reason, or\r\nalso perhaps because today was his thirtieth birthday, it was all\r\npossible of course, maybe all he had to do was laugh in the policemen's\r\nface in some way and they would laugh with him, maybe they were\r\ntradesmen from the corner of the street, they looked like they might\r\nbe—but he was nonetheless determined, ever since he first caught sight\r\nof the one called Franz, not to lose any slight advantage he might have\r\nhad over these people. There was a very slight risk that people would\r\nlater say he couldn't understand a joke, but—although he wasn't\r\nnormally in the habit of learning from experience—he might also have\r\nhad a few unimportant occasions in mind when, unlike his more cautious\r\nfriends, he had acted with no thought at all for what might follow and\r\nhad been made to suffer for it. He didn't want that to happen again, not\r\nthis time at least; if they were play-acting he would act along with\r\nthem.",
+            "primer_parrafo_es": null
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 36,
+        "fields": {
+            "id_proyecto_gutenberg": 63532,
+            "titulo": "Within a Budding Grove",
+            "titulo_es": "Dentro de un bosque en ciernes",
+            "titulo_IA": null,
+            "pista_IA": "Segunda parte de una monumental obra sobre la memoria y el tiempo.",
+            "temas": [
+                "Bildungsromans",
+                "France -- Social life and customs -- 19th century -- Fiction",
+                "Villages -- France -- Fiction"
+            ],
+            "autores": [
+                14
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 443,
+            "enlace": "https://www.gutenberg.org/ebooks/63532.html.images",
+            "primer_parrafo_en": "My mother, when it was a question of our having M. de Norpois to dinner\r\nfor the first time, having expressed her regret that Professor Cottard\r\nwas away from home, and that she herself had quite ceased to see\r\nanything of Swann, since either of these might have helped to entertain\r\nthe old Ambassador, my father replied that so eminent a guest, so\r\ndistinguished a man of science as Cottard could never be out of place at\r\na dinner-table, but that Swann, with his ostentation, his habit of\r\ncrying aloud from the house-tops the name of everyone that he knew,\r\nhowever slightly, was an impossible vulgarian whom the Marquis de\r\nNorpois would be sure to dismiss as—to use his own epithet—a\r\n\"pestilent\" fellow. Now, this attitude on my father's part may be felt to\r\nrequire a few words of explanation, inasmuch as some of us, no doubt,\r\nremember a Cottard of distinct mediocrity and a Swann by whom modesty\r\nand discretion, in all his social relations, were carried to the utmost\r\nrefinement of delicacy. But in his case, what had happened was that, to\r\nthe original \"young Swann\" and also to the Swann of the Jockey Club, our\r\nold friend had added a fresh personality (which was not to be his last)\r\nthat of Odette's husband. Adapting to the humble ambitions of that lady\r\nthe instinct, the desire, the industry which he had always had, he had\r\nlaboriously constructed for himself, a long way beneath the old, a new\r\nposition more appropriate to the companion who was to share it with him.\r\nIn this he shewed himself another man. Since (while he continued to go,\r\nby himself, to the houses of his own friends, on whom he did not care to\r\ninflict Odette unless they had expressly asked that she should be\r\nintroduced to them) it was a new life that he had begun to lead, in\r\ncommon with his wife, among a new set of people, it was quite\r\nintelligible that, in order to estimate the importance of these new\r\nfriends and thereby the pleasure, the self-esteem that were to be\r\nderived from entertaining them, he should have made use, as a standard\r\nof comparison, not of the brilliant society in which he himself had\r\nmoved before his marriage but of the earlier environment of Odette. And\r\nyet, even when one knew that it was with unfashionable officials and\r\ntheir faded wives, the wallflowers of ministerial ball-rooms, that he\r\nwas now anxious to associate, it was still astonishing to hear him, who\r\nin the old days, and even still, would so gracefully refrain from\r\nmentioning an invitation to Twickenham or to Marlborough House, proclaim\r\nwith quite unnecessary emphasis that the wife of some Assistant\r\nUnder-Secretary for Something had returned Mme. Swann's call. It will\r\nperhaps be objected here that what this really implied was that the\r\nsimplicity of the fashionable Swann had been nothing more than a supreme\r\nrefinement of vanity, and that, like certain other Israelites, my\r\nparents' old friend had contrived to illustrate in turn all the stages\r\nthrough which his race had passed, from the crudest and coarsest form of\r\nsnobbishness up to the highest pitch of good manners. But the chief\r\nreason—and one which is applicable to humanity as a whole—was\r\nthat our virtues themselves are not free and floating qualities over which\r\nwe retain a permanent control and power of disposal; they come to be so\r\nclosely linked in our minds with the actions in conjunction with which\r\nwe make it our duty to practise them, that, if we are suddenly called\r\nupon to perform some action of a different order, it takes us by\r\nsurprise, and without our supposing for a moment that it might involve\r\nthe bringing of those very same virtues into play. Swann, in his intense\r\nconsciousness of his new social surroundings, and in the pride with\r\nwhich he referred to them, was like those great artists—modest or\r\ngenerous by nature—who, if at the end of their career they take to\r\ncooking or to gardening, display a childlike gratification at the\r\ncompliments that are paid to their dishes or their borders, and will not\r\nlisten to any of the criticism which they heard unmoved when it was\r\napplied to their real achievements; or who, after giving away a canvas,\r\ncannot conceal their annoyance if they lose a couple of francs at\r\ndominoes.",
+            "primer_parrafo_es": "Mi madre, cuando se trataba de que cenamos a M. de Norpois\r\nPor primera vez, habiendo expresado su arrepentimiento de que el profesor Cottard\r\nestaba lejos de casa, y que ella misma había dejado de ver\r\ncualquier cosa de Swann, ya que cualquiera de estos podría haber ayudado a entretener\r\nEl viejo embajador, mi padre respondió que un invitado tan eminente, así que\r\ndistinguió a un hombre de ciencia ya que Cottard nunca podría estar fuera de lugar en\r\nuna mesa, pero ese swann, con su ostentación, su hábito de\r\nllorando en voz alta de la casa, los nombres de todos los que él conocía,\r\nSin embargo, un poco, era un vulgar imposible que el marqués de\r\nNorpois seguramente descartaría como, para usar su propio epíteto, un\r\n\"Pestilent\" compañero. Ahora, esta actitud por parte de mi padre se puede sentir\r\nrequieren algunas palabras de explicación, en la medida en que algunos de nosotros, sin duda,\r\nRecuerda un cottard de mediocridad distinta y un swann por el cual la modestia\r\ny la discreción, en todas sus relaciones sociales, fueron llevadas al máximo\r\nRefinamiento de delicadeza. Pero en su caso, lo que había sucedido era que, para\r\nEl original \"Young Swann\" y también al Swann del Jockey Club, nuestro\r\nEl viejo amigo había agregado una nueva personalidad (que no era la última)\r\nel del esposo de Odette. Adaptándose a las humildes ambiciones de esa dama\r\nel instinto, el deseo, la industria que siempre había tenido, él había\r\nconstruido laboriosamente para sí mismo, un largo camino debajo del viejo, un nuevo\r\nPosición más apropiada para el compañero que debía compartirlo con él.\r\nEn esto se mostró otro hombre. Desde que (mientras él continuaba,\r\npor sí mismo, a las casas de sus propios amigos, a quienes no le importaba\r\ninflige a Odette a menos que hubieran pedido expresamente que ella fuera\r\npresentado a ellos) era una nueva vida que había comenzado a liderar, en\r\nComún con su esposa, entre un nuevo conjunto de personas, fue bastante\r\ninteligible que, para estimar la importancia de estos nuevos\r\namigos y, por lo tanto, el placer, la autoestima que iban a ser\r\nderivado de entretenerlos, debería haber usado, como un estándar\r\nde comparación, no de la brillante sociedad en la que él mismo tenía\r\nse movió antes de su matrimonio pero del entorno anterior de Odette. Y\r\nSin embargo, incluso cuando uno sabía que era con funcionarios pasados ​​de moda y\r\nsus esposas desvaídas, las flores de pared de las salas de pelota ministeriales, que él\r\nahora estaba ansioso por asociarse, todavía era sorprendente escucharlo, quien\r\nen los viejos tiempos, y aún así, se abstendría con tanta gracia\r\nMencionando una invitación a Twickenham o a Marlborough House, proclamar\r\ncon un énfasis bastante innecesario que la esposa de algún asistente\r\nSubsecretario de algo había devuelto MME. Llamada de Swann. Va a\r\ntal vez sea objetado aquí que lo que esto realmente implicaba era que el\r\nLa simplicidad del swann de moda no había sido más que un supremo\r\nRefinamiento de la vanidad, y eso, como ciertos otros israelitas, mi\r\nEl viejo amigo de los padres había ideado para ilustrar a su vez todas las etapas\r\na través de la cual había pasado su raza, de la forma más cruda y grosera de\r\nEsnobismo hasta el lanzamiento más alto de buenos modales. Pero el jefe\r\nla razón, y una que sea aplicable a la humanidad en su conjunto, fue\r\nque nuestras virtudes no son cualidades libres y flotantes sobre las cuales\r\nConservamos un control permanente y el poder de eliminación; Vienen a ser tan\r\nestrechamente vinculado en nuestras mentes con las acciones en conjunto con las cuales\r\nTenemos nuestro deber practicarlos, que, si de repente nos llaman\r\npara realizar alguna acción de un orden diferente, nos lleva\r\nsorpresa, y sin suponer por un momento que pueda involucrar\r\nEl traer de esas mismas virtudes en juego. Swann, en su intenso\r\nconciencia de su nuevo entorno social, y en el orgullo con\r\na lo que se refirió a ellos, era como esos grandes artistas, modestos o\r\ngeneroso por naturaleza, quien, si al final de su carrera\r\ncocinar o para jardinería, exhiba una gratificación infantil en el\r\ncumplidos que se pagan a sus platos o sus fronteras, y no\r\nEscuche cualquiera de las críticas que escucharon inmóviles cuando fue\r\naplicado a sus logros reales; o quién, después de regalar un lienzo,\r\nno puede ocultar su molestia si pierden un par de francos en\r\ndominó."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 37,
+        "fields": {
+            "id_proyecto_gutenberg": 73425,
+            "titulo": "The Guermantes Way",
+            "titulo_es": "El camino de Guermantes",
+            "titulo_IA": null,
+            "pista_IA": "Un joven narrador se introduce en la alta sociedad francesa.",
+            "temas": [
+                "Autobiographical fiction",
+                "France -- Social life and customs -- Fiction"
+            ],
+            "autores": [
+                14
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 297,
+            "enlace": "https://www.gutenberg.org/ebooks/73425.html.images",
+            "primer_parrafo_en": "The French text of Le Côté de Guermantes being extremely\r\ninaccurate, every care has been taken to correct it in the process\r\nof translation. In three places in this volume the sequence of\r\nparagraphs has been altered, as the reader may discover by\r\ncomparing the French and English texts.",
+            "primer_parrafo_es": "El twitter de los pájaros en el amanecer sonaba\r\nInsípido a Françoise. Cada palabra pronunciada por el\r\nLas criadas arriba la hicieron saltar; perturbado por todos sus\r\ncorriendo, ella seguía preguntándose qué podían\r\nestar haciendo. En otras palabras, nos habíamos movido. Ciertamente el\r\nLos sirvientes no habían hecho menos ruido en los áticos de nuestro viejo\r\nhogar; Pero ella los conocía, había hecho de sus compras\r\ny acertos eventos familiares. Ahora se enfrentó incluso al silencio\r\ncon una atención tensa. Y como nuestro nuevo barrio\r\nparecía estar tan callado como el bulevar en el que nosotros\r\nSi hasta ahora se veía había sido ruidoso, la canción (distinta en\r\nuna distancia, cuando todavía era bastante débil, como una orquestal\r\nmotivo) de un transeúnte hizo lágrimas a los ojos de un\r\nFrançoise en el exilio. Y si hubiera sido tentado a reír\r\na ella en su miseria al tener que salir de una casa en la que\r\nElla era \"muy respetada por todos lados\" y había empacado\r\nsus troncos con lágrimas, según el uso de Combray,\r\ndeclarando superior a todas las casas posibles que tenían\r\nhe sido nuestro, por otro lado, yo, que me resultó tan difícil\r\nasimilar nuevo como me resultó fácil abandonar las viejas condiciones,\r\nMe sentí atraído por nuestro viejo sirviente cuando\r\nvi que esta instalación de sí misma en un edificio donde ella\r\nno había recibido del pasador de hall, que aún no\r\nconocernos, las marcas de respeto necesarias para su moral\r\nbienestar, la había llevado positivamente al borde de\r\n2Dissolución. Ella sola podía entender lo que era\r\nsentimiento; Ciertamente su joven lotante no era la persona\r\npara hacerlo; para él, que era tan diferente al tipo de comb un\r\nComo era posible concebir, empacar, moverse, vivir\r\nen otro distrito, todos eran como tomar unas vacaciones en las que\r\nLa novedad del entorno de uno le dio a uno el mismo sentido\r\nde refresco como si uno hubiera viajado realmente; él\r\npensó que estaba en el país; y un resfriado en la cabeza\r\nle permitió, como si hubiera estado sentado en un\r\ncarro de ferrocarril, la deliciosa sensación de haber visto\r\nel mundo; En cada estornudo fresco se regocijó que tuviera\r\nencontrado un lugar tan inteligente, ya que siempre anhelaba estar con\r\npersonas que viajaron mucho. Y así, sin darle\r\nUn pensamiento, fui directamente a Françoise, quien, a cambio\r\nporque me habían reído de sus lágrimas por una extracción que\r\nme había dejado frío, ahora mostró una indiferencia helada a mi\r\ndolor, pero porque ella lo compartió. La \"sensibilidad\"\r\nreclamado por personas neuróticas se corresponde con su egoísmo;\r\nno pueden cumplir con la alarma de otros de los sufrimientos\r\na lo que prestan una atención cada vez mayor en sí mismos.\r\nFrançoise, que no permitiría lo menos de ella\r\npropias dolencias para pasar desapercibidas, si tuviera dolor\r\nGire su cabeza de mí para que no tuviera el\r\nsatisfacción de ver mis sufrimientos compadecidos, o tanto como\r\nobservado. Fue lo mismo tan pronto como intenté hablar\r\na ella sobre nuestra nueva casa. Además, haber sido\r\nobligado, un día o dos después, a regresar a la casa que\r\nacababa de ir, para recuperar algo de ropa que había sido\r\npasado por alto en nuestra eliminación, mientras que yo, como resultado, tenía\r\nsigue siendo una \"temperatura\", y como un boa constrictor que ha\r\nsolo tragar un buey me sentí dolorosamente distendido por\r\nla vista de un tronco largo que mis ojos todavía tenían que digerir,\r\n3françoise, con verdadera inconstancia femenina, regresó diciendo\r\nque realmente había pensado que se sofocaría en nuestro\r\nOld Boulevard, era tan cargada que lo había encontrado bastante\r\nun día de viaje para llegar allí, que nunca había visto tal\r\nescaleras, que no volvería a vivir allí para un rey\r\nrescate, no si te ofrecieras millones, un puro\r\nhipótesis, y que todo (todo, eso es\r\nDigamos que ver con la cocina y las \"oficinas habituales\") fue mucho\r\nmejor equipado en la nueva casa. Que, es hora\r\nAhora que se debe decir al lector, y también le dijo que nosotros\r\nse había mudado porque mi abuela, no tener\r\nHe estado en absoluto bien (aunque nos cuidamos mantener esta razón\r\nde ella), necesitaba un mejor aire, era una formación plana\r\nParte del Hôtel de Guermantes."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 40,
+        "fields": {
+            "id_proyecto_gutenberg": 1999,
+            "titulo": "Crome Yellow",
+            "titulo_es": "Crome amarillo",
+            "titulo_IA": null,
+            "pista_IA": "Sátira de la sociedad británica en una casa de campo excéntrica.",
+            "temas": [
+                "Country homes -- Fiction",
+                "England -- Fiction",
+                "Humorous stories",
+                "Intellectuals -- Fiction",
+                "Satire"
+            ],
+            "autores": [
+                16
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 469,
+            "enlace": "https://www.gutenberg.org/ebooks/1999.html.images",
+            "primer_parrafo_en": "They were snorting out of West Bowlby now. It was the next station, thank\r\n      Heaven. Denis took his chattels off the rack and piled them neatly in the\r\n      corner opposite his own. A futile proceeding. But one must have something\r\n      to do. When he had finished, he sank back into his seat and closed his\r\n      eyes. It was extremely hot.",
+            "primer_parrafo_es": "A lo largo de este\r\n      En particular, un tramo de línea no había pasado ningún expreso. Todos los trenes, los\r\n      Pocos que hubo, pensados ​​en todas las estaciones. Denis conocía el\r\n      Nombres de esas estaciones de corazón. Bole, Tritton, Spavin Delawarr,\r\n      Knipswich para Timpany, West Bowlby y, finalmente, Camlet-on-the-Water.\r\n      Camlet era donde siempre salía, dejando el tren para arrastrarse indolentemente\r\n      En adelante, la bondad solo sabía a dónde, en el corazón verde de Inglaterra."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 42,
+        "fields": {
+            "id_proyecto_gutenberg": 66073,
+            "titulo": "Death in Venice",
+            "titulo_es": "Muerte en Venecia",
+            "titulo_IA": null,
+            "pista_IA": "Un escritor obsesionado con la belleza y la juventud en un viaje a Italia.",
+            "temas": [
+                "Homosexuality -- Fiction",
+                "Middle age -- Fiction",
+                "Parables",
+                "Psychological fiction",
+                "Venice (Italy) -- Fiction"
+            ],
+            "autores": [
+                17
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1055,
+            "enlace": "https://www.gutenberg.org/ebooks/66073.html.images",
+            "primer_parrafo_en": "On a spring afternoon of the year 19—, when our continent lay\r\nunder such threatening weather for whole months, Gustav Aschenbach, or\r\nvon Aschenbach as his name read officially after his fiftieth birthday,\r\nhad left his apartment on the Prinzregentenstrasse in Munich and had\r\ngone for a long walk. Overwrought by the trying and precarious work of\r\nthe forenoon—which had demanded a maximum wariness, prudence,\r\npenetration, and rigour of the will—the writer had not been able\r\neven after the noon meal to break the impetus of the productive\r\nmechanism within him, that motus animi continuus which\r\nconstitutes, according to Cicero, the foundation of eloquence; and he\r\nhad not attained the healing sleep which—what with the increasing\r\nexhaustion of his strength—he needed in the middle of each day. So\r\nhe had gone outdoors soon after tea, in the hopes that air and movement\r\nwould restore him and prepare him for a profitable evening.",
+            "primer_parrafo_es": "En una tarde de primavera del año 19, cuando nuestro continente yacía\r\nBajo un clima tan amenazante durante meses enteros, Gustav Aschenbach, o\r\nVon Aschenbach como su nombre leía oficialmente después de su quincuagésimo cumpleaños,\r\nhabía dejado su departamento en el prinzregentenstrasse en Munich y había\r\nse fue a dar una larga caminata. Sobrecargado por el trabajo intensivo y precario de\r\nla mañana, que había exigido una máxima cautela, prudencia,\r\npenetración y rigor de la voluntad: el escritor no había podido\r\nIncluso después de la comida del mediodía para romper el ímpetu de lo productivo\r\nmecanismo dentro de él, ese continuo motus animi que\r\nconstituye, según Cicero, la base de la elocuencia; y el\r\nno había alcanzado el sueño curativo que, lo que con el aumento\r\nAgotamiento de su fuerza: necesitaba en el medio de cada día. Entonces\r\nSe había salido al aire libre poco después del té, con la esperanza de que el aire y el movimiento\r\nlo restauraría y lo prepararía para una noche rentable."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 45,
+        "fields": {
+            "id_proyecto_gutenberg": 2500,
+            "titulo": "Siddhartha",
+            "titulo_es": "Siddhartha",
+            "titulo_IA": null,
+            "pista_IA": "Un viaje de aprendizaje donde el río tiene más respuestas que los libros.",
+            "temas": [
+                "Brahmans -- Fiction",
+                "Buddhism -- Fiction",
+                "Buddhist philosophy -- Fiction",
+                "Gautama Buddha -- Fiction",
+                "India -- Religion -- Fiction",
+                "India -- Social life and customs -- Fiction",
+                "Self-realization -- Fiction",
+                "Spiritual life -- Fiction"
+            ],
+            "autores": [
+                19
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 4956,
+            "enlace": "https://www.gutenberg.org/ebooks/2500.html.images",
+            "primer_parrafo_en": "In the shade of the house, in the sunshine of the riverbank near the boats, in\r\nthe shade of the Sal-wood forest, in the shade of the fig tree is where\r\nSiddhartha grew up, the handsome son of the Brahman, the young falcon, together\r\nwith his friend Govinda, son of a Brahman. The sun tanned his light shoulders\r\nby the banks of the river when bathing, performing the sacred ablutions, the\r\nsacred offerings. In the mango grove, shade poured into his black eyes, when\r\nplaying as a boy, when his mother sang, when the sacred offerings were made,\r\nwhen his father, the scholar, taught him, when the wise men talked. For a long\r\ntime, Siddhartha had been partaking in the discussions of the wise men,\r\npractising debate with Govinda, practising with Govinda the art of reflection,\r\nthe service of meditation. He already knew how to speak the Om silently, the\r\nword of words, to speak it silently into himself while inhaling, to speak it\r\nsilently out of himself while exhaling, with all the concentration of his soul,\r\nthe forehead surrounded by the glow of the clear-thinking spirit. He already\r\nknew to feel Atman in the depths of his being, indestructible, one with the\r\nuniverse.",
+            "primer_parrafo_es": "A la sombra de la casa, al sol de la orilla del río cerca de los botes, en\r\nLa sombra del bosque de madera salada, a la sombra de la higuera es donde\r\nSiddhartha creció, el guapo hijo del Brahman, el joven Halcón, juntos\r\ncon su amiga Govinda, hijo de un Brahman. El sol bronceó sus hombros ligeros\r\na orillas del río al bañarse, realizando las abluciones sagradas, la\r\nOfertas sagradas. En el bosque de mango, la sombra se vertió en sus ojos negros, cuando\r\nJugando de niño, cuando su madre cantó, cuando se hicieron las ofrendas sagradas,\r\nCuando su padre, el erudito, le enseñó, cuando los sabios hablaron. Por mucho tiempo\r\ntiempo, Siddhartha había estado participando en las discusiones de los sabios,\r\nPracticar el debate con Govinda, practicando con Govinda el arte de la reflexión,\r\nEl servicio de la meditación. Él ya sabía cómo hablar el OM en silencio, el\r\nPalabra de palabras, para hablar en silencio en sí mismo mientras está inhalando, para hablarlo\r\nsilenciosamente fuera de sí mismo mientras exhalaba, con toda la concentración de su alma,\r\nLa frente rodeada por el brillo del espíritu de pensamiento claro. El ya\r\nsabía sentir a Atman en las profundidades de su ser, indestructible, uno con el\r\nuniverso."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 46,
+        "fields": {
+            "id_proyecto_gutenberg": 74222,
+            "titulo": "Demian",
+            "titulo_es": "Demia",
+            "titulo_IA": null,
+            "pista_IA": "Un joven busca su identidad y la verdad más allá de las normas sociales.",
+            "temas": [
+                "Bildungsromans",
+                "Germany -- Social conditions -- 1918-1933 -- Fiction",
+                "Young men -- Germany -- Fiction"
+            ],
+            "autores": [
+                19
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1546,
+            "enlace": "https://www.gutenberg.org/ebooks/74222.html.images",
+            "primer_parrafo_en": "\n  I wanted only to try to live in obedience to the promptings which came from my true self. Why was that so very difficult?\n\nIn order to tell my story, I must begin far back. If it were possible, I should have to go back much further still, to the earliest years of my childhood, and even beyond, to my distant ancestry.    ",
+            "primer_parrafo_es": null
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 50,
+        "fields": {
+            "id_proyecto_gutenberg": 144,
+            "titulo": "The Voyage Out",
+            "titulo_es": "El viaje",
+            "titulo_IA": null,
+            "pista_IA": "La historia de una joven en su viaje de autodescubrimiento.",
+            "temas": [
+                "Bildungsromans",
+                "British -- South America -- Fiction",
+                "Love stories",
+                "Ocean travel -- Fiction",
+                "Women travelers -- Fiction",
+                "Young women -- Fiction"
+            ],
+            "autores": [
+                20
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1120,
+            "enlace": "https://www.gutenberg.org/ebooks/144.html.images",
+            "primer_parrafo_en": "As the streets that lead from the Strand to the Embankment are very narrow, it\r\nis better not to walk down them arm-in-arm. If you persist, lawyers’\r\nclerks will have to make flying leaps into the mud; young lady typists will\r\nhave to fidget behind you. In the streets of London where beauty goes\r\nunregarded, eccentricity must pay the penalty, and it is better not to be very\r\ntall, to wear a long blue cloak, or to beat the air with your left hand.",
+            "primer_parrafo_es": "Como las calles que conducen desde el hilo al terraplén son muy estrechas,\r\nes mejor no caminar por el brazo. Si persiste, los abogados\r\nLos empleados tendrán que hacer saltos voladores en el barro; Los mecanógrafos de la joven dama\r\ntengo que inquietarse detrás de ti. En las calles de Londres donde va la belleza\r\nno considerado, la excentricidad debe pagar la multa, y es mejor no ser muy\r\nAlto, para usar una capa azul larga, o para batir el aire con la mano izquierda."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 51,
+        "fields": {
+            "id_proyecto_gutenberg": 8800,
+            "titulo": "The divine comedy",
+            "titulo_es": "La comedia divina",
+            "titulo_IA": "The Divine Comedy",
+            "pista_IA": "Un viaje épico a través del Infierno, el Purgatorio y el Paraíso.",
+            "temas": [
+                "Epic poetry, Italian -- Translations into English",
+                "Italian poetry -- To 1400 -- Translations into English"
+            ],
+            "autores": [
+                21
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 11575,
+            "enlace": "https://www.gutenberg.org/ebooks/8800.html.images",
+            "primer_parrafo_en": "In the midway of this our mortal life,\r\nI found me in a gloomy wood, astray\r\nGone from the path direct: and e’en to tell\r\nIt were no easy task, how savage wild\r\nThat forest, how robust and rough its growth,\r\nWhich to remember only, my dismay\r\nRenews, in bitterness not far from death.\r\nYet to discourse of what there good befell,\r\nAll else will I relate discover’d there.\r\nHow first I enter’d it I scarce can say,\r\nSuch sleepy dullness in that instant weigh’d\r\nMy senses down, when the true path I left,\r\nBut when a mountain’s foot I reach’d, where clos’d\r\nThe valley, that had pierc’d my heart with dread,\r\nI look’d aloft, and saw his shoulders broad\r\nAlready vested with that planet’s beam,\r\nWho leads all wanderers safe through every way.\n\r\nThen was a little respite to the fear,\r\nThat in my heart’s recesses deep had lain,\r\nAll of that night, so pitifully pass’d:\r\nAnd as a man, with difficult short breath,\r\nForespent with toiling, ’scap’d from sea to shore,\r\nTurns to the perilous wide waste, and stands\r\nAt gaze; e’en so my spirit, that yet fail’d\r\nStruggling with terror, turn’d to view the straits,\r\nThat none hath pass’d and liv’d. My weary frame\r\nAfter short pause recomforted, again\r\nI journey’d on over that lonely steep,",
+            "primer_parrafo_es": "A mitad de camino de esto nuestra vida mortal,\r\nMe encontré en una madera sombría, por mal camino\r\nIdo de la ruta directa: y e’en para decir\r\nNo fue una tarea fácil, cómo salvaje salvaje\r\nEse bosque, qué robusto y rudo es su crecimiento,\r\nQue recordar solo, mi consternación\r\nRenovaciones, en amargura no muy lejos de la muerte.\r\nSin embargo, para el discurso de lo que hay buen trabajo,\r\nTodo lo demás relacionaré Discover’d allí.\r\n¿Qué tan primero entro puedo decir?\r\nTal opacidad para el sueño en ese instante pesado\r\nMis sentidos hacia abajo, cuando el verdadero camino me fui,\r\nPero cuando el pie de una montaña alcanzaba, donde cerraba\r\nEl valle, que me había pasado de corazón con temor,\r\nMe veo en alto y vi sus hombros amplios\r\nYa adquirido con el rayo de ese planeta,\r\nQuien lleva a todos los vagabundos a salvo en todos los sentidos.\n\r\nEntonces fue un poco de respiro al miedo,\r\nQue en los recovecos de mi corazón se había quedado\r\nToda esa noche, tan lamentablemente pasada:\r\nY como hombre, con un fuerte aliento corto,\r\nAntes de trabajo, \"se mueve desde el mar hasta la orilla,\r\nSe vuelve hacia los peligrosos desechos y se para\r\nEn la mirada; e’en entonces mi espíritu, eso todavía falló\r\nLuchando con el terror, giró para ver el estrecho,\r\nQue ninguno ha pasado y Liv’d. Mi marco cansado\r\nDespués de una breve pausa recogida, nuevamente\r\nViajé sobre ese empinado solitario,"
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 56,
+        "fields": {
+            "id_proyecto_gutenberg": 46125,
+            "titulo": "Pablo de Segovia, the Spanish Sharper",
+            "titulo_es": "Pablo de Segovia, el español más agudo",
+            "titulo_IA": "The Life of Pablo de Segovia",
+            "pista_IA": "Las aventuras de un pícaro español en el Siglo de Oro.",
+            "temas": [
+                "Picaresque literature, Spanish",
+                "Spain -- Fiction",
+                "Swindlers and swindling -- Fiction"
+            ],
+            "autores": [
+                23
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 232,
+            "enlace": "https://www.gutenberg.org/ebooks/46125.html.images",
+            "primer_parrafo_en": "I SIR, was born at Segovia, my father’s name was Clemente Pablo, a\r\nnative of the same town; may God keep him in heaven. I need not speak of\r\nhis virtues, for those are unknown, but by trade he was a barber, though\r\nso high minded, that he took it for an affront to be called by any name\r\nbut that of a cheek-shearer and beard-tailor. They say he came of a good\r\nstock, and his actions showed it. He was married to Aldonza Saturno de\r\nRebollo, daughter to Octavio de Rebollo Codillo, and grandchild to\r\nLepido Ziuraconte. The town foully suspected that she was no old\r\nChristian,[3] though she strongly urged the names of her progenitors, to\r\nprove herself descended from those great men that formed the Triumvirate\r\nat Rome. She was very handsome, and so famous, that all the ballad\r\nrhymers of her time made verses of her, which were sung about the\r\nstreets. She ran through many troubles, when first married, and long\r\nafter, for there were scandalous tongues in the neighbourhood that did\r\nnot stick to say my father was willing to wear the horns, provided they\r\nwere tipped with gold. It was proved upon him, that whilst he was\r\nlathering the beards of those he was to trim, a small brother of mine,\r\nabout seven years of age, rifled their pockets. The little angel died of\r\na whipping he had in the gaol; and my father was much concerned at the\r\nloss, because he won the hearts of them all. He was himself a while in\r\nprison for some small trifles of this nature; but I am told he came off\r\nso honourably, that at his first walking abroad from gaol two hundred\r\ncardinals went behind him, of whom ne’er a one was monsignor,[4] and the\r\nladies stood at their windows to see him pass by; for my father always\r\nmade a good figure, either a-foot or a-horseback. I do not speak it out\r\nof vanity, for everybody knows that to be foreign to me.",
+            "primer_parrafo_es": "Yo señor, nació en Segovia, el nombre de mi padre era Clemente Pablo, un\r\nnativo de la misma ciudad; Que Dios lo mantenga en el cielo. No necesito hablar de\r\nsus virtudes, para esas son desconocidas, pero por oficio era un barbero, aunque\r\nTan de mente, que lo tomó para que una afrenta fuera llamado por cualquier nombre\r\npero el de un shearer de mejillas y un cola de barba. Dicen que vino de un buen\r\nStock, y sus acciones lo mostraron. Estaba casado con Aldonza Saturno de\r\nRebollo, hija de Octavio de Rebollo Codillo y nieto para\r\nLepido Ziuraconte. La ciudad sospechaba asombrosamente que no era vieja\r\nChristian, [3] aunque ella instó firmemente a los nombres de sus progenitores, a\r\ndemuestra que descendía de esos grandes hombres que formaron el triunvirato\r\nen Roma. Ella era muy guapa y tan famosa, que toda la balada\r\nrimadores de su tiempo hicieron versos de ella, que se cantaron sobre el\r\ncalles. Ella corrió por muchos problemas, cuando se casó por primera vez, y largo\r\nDespués, porque había lenguas escandalosas en el vecindario que lo hicieron\r\nNo se apegue a decir que mi padre estaba dispuesto a usar los cuernos, siempre que\r\nfueron inclinados con oro. Se demostró sobre él, que mientras estaba\r\nEnjabonando las barbas de los que debía recortar, un hermano mayor,\r\nAlrededor de los siete años de edad, se agitó sus bolsillos. El angelito murió de\r\nun azote que tenía en la cárcel; y mi padre estaba muy preocupado por el\r\nPérdida, porque ganó los corazones de todos. Él era él mismo un tiempo en\r\nprisión para algunas pequeñas bagatelas de esta naturaleza; pero me dijeron que salió\r\nTan honorablemente, que en su primer camino al extranjero desde la cárcel\r\nLos cardenales fueron detrás de él, de los cuales uno era Monseñor, [4] y el\r\nLas damas se pararon en sus ventanas para verlo pasar; para mi padre siempre\r\nHizo una buena figura, ya sea A-Foot o A-Horseback. No lo hablo\r\nde vanidad, porque todos saben que ser extranjero para mí."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 62,
+        "fields": {
+            "id_proyecto_gutenberg": 1513,
+            "titulo": "Romeo and Juliet",
+            "titulo_es": "Romeo y Julieta",
+            "titulo_IA": null,
+            "pista_IA": "La trágica historia de dos jóvenes amantes que luchan contra el odio de sus familias.",
+            "temas": [
+                "Conflict of generations -- Drama",
+                "Juliet (Fictitious character) -- Drama",
+                "Romeo (Fictitious character) -- Drama",
+                "Tragedies",
+                "Vendetta -- Drama",
+                "Verona (Italy) -- Drama",
+                "Youth -- Drama"
+            ],
+            "autores": [
+                25
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 70187,
+            "enlace": "https://www.gutenberg.org/ebooks/1513.html.images",
+            "primer_parrafo_en": "ESCALUS, Prince of Verona.\r\nMERCUTIO, kinsman to the Prince, and friend to Romeo.\r\nPARIS, a young Nobleman, kinsman to the Prince.\r\nPage to Paris.",
+            "primer_parrafo_es": "Sampson.\r\nGregory, en mi palabra, no llevaremos brasas."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 68,
+        "fields": {
+            "id_proyecto_gutenberg": 14591,
+            "titulo": "Faust [part 1]. Translated Into English in the Original Metres",
+            "titulo_es": "Fausto [Parte 1]. Traducido al inglés en los medidores originales",
+            "titulo_IA": "Faust",
+            "pista_IA": "La lucha de un hombre por su alma a cambio de poder y conocimiento, en un pacto con el diablo.",
+            "temas": [
+                "Faust, -approximately 1540 -- Drama",
+                "German poetry -- Translations into English",
+                "Legends -- Germany -- Drama",
+                "Magicians -- Drama"
+            ],
+            "autores": [
+                27
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 7461,
+            "enlace": "https://www.gutenberg.org/ebooks/14591.html.images",
+            "primer_parrafo_en": "NIGHT\n\r\n     (A lofty-arched, narrow, Gothic chamber. FAUST, in a chair at his\r\n     desk, restless.)\n\n\r\n     FAUST\n\r\n     I’ve studied now Philosophy\r\n     And Jurisprudence, Medicine,—\r\n     And even, alas! Theology,—\r\n     From end to end, with labor keen;\r\n     And here, poor fool! with all my lore\r\n     I stand, no wiser than before:\r\n     I’m Magister—yea, Doctor—hight,\r\n     And straight or cross-wise, wrong or right,\r\n     These ten years long, with many woes,\r\n     I’ve led my scholars by the nose,—\r\n     And see, that nothing can be known!\nThat knowledge cuts me to the bone.\r\n     I’m cleverer, true, than those fops of teachers,\r\n     Doctors and Magisters, Scribes and Preachers;\r\n     Neither scruples nor doubts come now to smite me,\r\n     Nor Hell nor Devil can longer affright me.\n\r\n     For this, all pleasure am I foregoing;\r\n     I do not pretend to aught worth knowing,\r\n     I do not pretend I could be a teacher\r\n     To help or convert a fellow-creature.\r\n     Then, too, I’ve neither lands nor gold,\r\n     Nor the world’s least pomp or honor hold—\r\n     No dog would endure such a curst existence!\r\n     Wherefore, from Magic I seek assistance,\r\n     That many a secret perchance I reach\r\n     Through spirit-power and spirit-speech,\r\n     And thus the bitter task forego\r\n     Of saying the things I do not know,—\r\n     That I may detect the inmost force\r\n     Which binds the world, and guides its course;\r\n     Its germs, productive powers explore,\r\n     And rummage in empty words no more!\n\r\n     O full and splendid Moon, whom I\r\n     Have, from this desk, seen climb the sky\r\n     So many a midnight,—would thy glow\r\n     For the last time beheld my woe!\r\n     Ever thine eye, most mournful friend,\r\n     O’er books and papers saw me bend;\r\n     But would that I, on mountains grand,\r\n     Amid thy blessed light could stand,\r\n     With spirits through mountain-caverns hover,\r\n     Float in thy twilight the meadows over,\r\n     And, freed from the fumes of lore that swathe me,\r\n     To health in thy dewy fountains bathe me!\n\r\n     Ah, me! this dungeon still I see.\r\n     This drear, accursed masonry,\r\n     Where even the welcome daylight strains\r\n     But duskly through the painted panes.\r\n     Hemmed in by many a toppling heap\r\n     Of books worm-eaten, gray with dust,\r\n     Which to the vaulted ceiling creep,\r\n     Against the smoky paper thrust,—\r\n     With glasses, boxes, round me stacked,\r\n     And instruments together hurled,\r\n     Ancestral lumber, stuffed and packed—\r\n     Such is my world: and what a world!\n\r\n     And do I ask, wherefore my heart\r\n     Falters, oppressed with unknown needs?\r\n     Why some inexplicable smart\r\n     All movement of my life impedes?\r\n     Alas! in living Nature’s stead,\r\n     Where God His human creature set,\r\n     In smoke and mould the fleshless dead\r\n     And bones of beasts surround me yet!\n\r\n     Fly! Up, and seek the broad, free land!\r\n     And this one Book of Mystery\r\n     From Nostradamus’ very hand,\r\n     Is’t not sufficient company?\r\n     When I the starry courses know,\r\n     And Nature’s wise instruction seek,\r\n     With light of power my soul shall glow,\r\n     As when to spirits spirits speak.\r\n     Tis vain, this empty brooding here,\r\n     Though guessed the holy symbols be:\r\n     Ye, Spirits, come—ye hover near—\r\n     Oh, if you hear me, answer me!\n\r\n     (He opens the Book, and perceives the sign of the Macrocosm.)\n\r\n     Ha! what a sudden rapture leaps from this\r\n     I view, through all my senses swiftly flowing!\r\n     I feel a youthful, holy, vital bliss\r\n     In every vein and fibre newly glowing.\r\n     Was it a God, who traced this sign,\r\n     With calm across my tumult stealing,\r\n     My troubled heart to joy unsealing,\r\n     With impulse, mystic and divine,\r\n     The powers of Nature here, around my path, revealing?\r\n     Am I a God?—so clear mine eyes!\r\n     In these pure features I behold\r\n     Creative Nature to my soul unfold.\r\n     What says the sage, now first I recognize:\r\n     “The spirit-world no closures fasten;\r\n     Thy sense is shut, thy heart is dead:\r\n     Disciple, up! untiring, hasten\r\n     To bathe thy breast in morning-red!”\n\r\n     (He contemplates the sign.)\n\r\n     How each the Whole its substance gives,\r\n     Each in the other works and lives!\r\n     Like heavenly forces rising and descending,\r\n     Their golden urns reciprocally lending,\r\n     With wings that winnow blessing\r\n     From Heaven through Earth I see them pressing,\r\n     Filling the All with harmony unceasing!\r\n     How grand a show! but, ah! a show alone.\r\n     Thee, boundless Nature, how make thee my own?\r\n     Where you, ye beasts? Founts of all Being, shining,\r\n     Whereon hang Heaven’s and Earth’s desire,\r\n     Whereto our withered hearts aspire,—\r\n     Ye flow, ye feed: and am I vainly pining?\n\r\n     (He turns the leaves impatiently, and perceives the sign of the\r\n     Earth-Spirit.)\n\r\n     How otherwise upon me works this sign!\r\n     Thou, Spirit of the Earth, art nearer:\r\n     Even now my powers are loftier, clearer;\r\n     I glow, as drunk with new-made wine:\r\n     New strength and heart to meet the world incite me,\r\n     The woe of earth, the bliss of earth, invite me,\r\n     And though the shock of storms may smite me,\r\n     No crash of shipwreck shall have power to fright me!\r\n     Clouds gather over me—\r\n     The moon conceals her light—\r\n     The lamp’s extinguished!—\r\n     Mists rise,—red, angry rays are darting\r\n     Around my head!—There falls\r\n     A horror from the vaulted roof,\r\n     And seizes me!\r\n     I feel thy presence, Spirit I invoke!\r\n     Reveal thyself!\r\n     Ha! in my heart what rending stroke!\r\n     With new impulsion\r\n     My senses heave in this convulsion!\r\n     I feel thee draw my heart, absorb, exhaust me:\r\n     Thou must! thou must! and though my life it cost me!\n\r\n     (He seizes the book, and mysteriously pronounces the sign of\r\n     the Spirit. A ruddy flame flashes: the Spirit appears in\r\n     the flame.)\n\n\r\n     SPIRIT\n\r\n     Who calls me?\n\n\r\n     FAUST (with averted head)",
+            "primer_parrafo_es": "NOCHE\n\r\n     (Una cámara gótica, estrecha, estrecha, fausto, en una silla en su\r\n     escritorio, inquieto.)\n\n\r\n     Fausto\n\r\n     He estudiado ahora filosofía\r\n     Y jurisprudencia, medicina, -\r\n     ¡E incluso, por desgracia! Teología,-\r\n     De extremo a extremo, con trabajo interesado;\r\n     ¡Y aquí, pobre tonto! Con toda mi tradición\r\n     Estoy de pie, no más sabio que antes:\r\n     Soy Magister - Yea, Doctor - Hight,\r\n     Y recto o cruzado, incorrecto o correcto,\r\n     Estos diez años, con muchos problemas,\r\n     He dirigido a mis estudiosos por la nariz\r\n     Y mira, ¡que no se puede saber nada!\nEse conocimiento me corta hasta el hueso.\r\n     Soy más inteligente, verdadero, que esos FOP de maestros,\r\n     Médicos y magistros, escribas y predicadores;\r\n     Ni escrúpulos ni dudas vienen ahora a golpearme,\r\n     Ni el infierno ni el diablo puede más que me considera.\n\r\n     Para esto, todo el placer estoy anterior;\r\n     No pretendo que valga la pena saber\r\n     No pretendo que pueda ser maestro\r\n     Para ayudar o convertir una criatura de compañeros.\r\n     Entonces, también, no tengo tierras ni oro,\r\n     Ni la menor cantidad o honor del mundo.\r\n     ¡Ningún perro soportaría una existencia tan curativa!\r\n     Por lo tanto, de la magia busco ayuda,\r\n     Que muchas perchas secretas llego a\r\n     A través de la fuerza del espíritu y la voz espiritual,\r\n     Y así la amarga tarea renuncia\r\n     De decir las cosas que no sé -\r\n     Para que pueda detectar la fuerza más alta\r\n     Lo que une al mundo y guía su curso;\r\n     Sus gérmenes, los poderes productivos exploran,\r\n     ¡Y hurgar en palabras vacías, ya no!\n\r\n     O Luna llena y espléndida, a quien yo\r\n     Tener, desde este escritorio, visto escalar el cielo\r\n     Tantos Medianoche, tu brillo\r\n     ¡Por la última vez, vio mi Ay!\r\n     Siempre tu ojo, el más triste amigo,\r\n     Los libros y periódicos de O'er me vieron doblar;\r\n     Pero lo haría, en montañas grandiosas,\r\n     En medio de tu bendita luz podría soportar\r\n     Con espíritus a través de las cavernas de montaña,\r\n     Flota en tu crepúsculo los prados,\r\n     Y, liberado de los humos de la tradición que me dan,\r\n     ¡A la salud en tus fuentes húmedas bañándome!\n\r\n     ¡Ah, yo! Esta mazmorra todavía veo.\r\n     Esta triste mampostería, maldita sea,\r\n     Donde incluso las cepas de la luz del día de bienvenida\r\n     Pero enhuesado a través de los paneles pintados.\r\n     Encerrado por muchos un montón de caída\r\n     De libros comidos con gusano, gris con polvo,\r\n     Que para el techo abovedado se arrastran,\r\n     Contra el empuje de papel ahumado, -\r\n     Con gafas, cajas, alrededor de mí apilada,\r\n     E instrumentos juntos arrojados,\r\n     Madera ancestral, llena y empaquetada\r\n     Tal es mi mundo: ¡y qué mundo!\n\r\n     Y pregunto, por lo que mi corazón\r\n     ¿Flaters, oprimido con necesidades desconocidas?\r\n     Por qué un inteligente inexplicable\r\n     ¿Todo el movimiento de mi vida impide?\r\n     ¡Ay! En la posición de la naturaleza viviente,\r\n     Donde dios su criatura humana se estableció,\r\n     En humo y moldeo los muertos sin carne\r\n     ¡Y los huesos de bestias me rodean todavía!\n\r\n     ¡Volar! ¡Arriba, y busca la tierra ancha y libre!\r\n     Y este libro de misterio\r\n     Desde la misma mano de Nostradamus,\r\n     ¿No es una compañía suficiente?\r\n     Cuando yo los cursos estrellados lo saben,\r\n     Y la sabia instrucción de la naturaleza, buscar,\r\n     Con luz de poder mi alma brillará\r\n     Como cuando los espíritus hablan los espíritus.\r\n     Es vano, esta melancólica vacía aquí,\r\n     Aunque adivinó los símbolos santos ser:\r\n     Ye, espíritus, ven - se desplazan cerca de ...\r\n     Oh, si me escuchas, ¡contemplame!\n\r\n     (Abre el libro y percibe el signo del macrocosmos).\n\r\n     ¡Ja! Qué rapto tan repentino salta de esto\r\n     ¡Veo, a través de todos mis sentidos, fluyendo rápidamente!\r\n     Siento una felicidad juvenil, santa y vital\r\n     En cada vena y fibra recién brillantes.\r\n     ¿Fue un dios que rastreó esta señal?\r\n     Con calma a través de mi tumulto robando,\r\n     Mi corazón problemático hacia la alegría que se desacelera,\r\n     Con impulso, místico y divino,\r\n     ¿Los poderes de la naturaleza aquí, alrededor de mi camino, revelando?\r\n     ¿Soy un dios? ¡Así que aclara los ojos de los míos!\r\n     En estas características puras, veo\r\n     Naturaleza creativa a mi alma.\r\n     Lo que dice el sabio, ahora primero reconozco:\r\n     “El mundo del espíritu no se sujetan;\r\n     Tu sentido está cerrado, tu corazón está muerto:\r\n     ¡Discípulo, arriba! incansable, apresurarse\r\n     ¡Bailar tu pecho en rojo matutino!\n\r\n     (Contempla el letrero).\n\r\n     Cómo cada uno todo su sustancia da,\r\n     ¡Cada uno en los otros trabajos y vidas!\r\n     Como las fuerzas celestiales que se elevan y descenden,\r\n     Sus urnas doradas préstamos recíprocamente,\r\n     Con alas que Winnow bendicen\r\n     Desde el cielo a través de la tierra los veo presionando,\r\n     ¡Llenando todo con armonía incesante!\r\n     ¡Qué grandioso espectáculo! Pero, ¡ah! un espectáculo solo.\r\n     Ti, naturaleza ilimitada, ¿cómo te haces la mía?\r\n     ¿Dónde estás bestias? Fuentes de todo ser, brillando,\r\n     Donde cuelgan el deseo del cielo y la tierra,\r\n     Donde aspiran nuestros corazones marchitos, -\r\n     Flujo, alimento: ¿y estoy en vano?\n\r\n     (Gira las hojas impacientes y percibe el signo del\r\n     Espíritu de la tierra)\n\r\n     ¡Cómo funciona sobre mí esta señal!\r\n     Tú, espíritu de la tierra, arte más cercano:\r\n     Incluso ahora mis poderes son más altos, más claros;\r\n     Glow, como borracho con vino recién hecho:\r\n     Nueva fuerza y ​​corazón para conocer al mundo me incitan,\r\n     El dolor de la tierra, la dicha de la tierra, invítame,\r\n     Y aunque la conmoción de las tormentas puede golpearme,\r\n     ¡Ningún choque de naufragios tendrá poder para asustarme!\r\n     Las nubes se reúnen sobre mí.\r\n     La luna oculta su luz—\r\n     ¡La lámpara se extingue!\r\n     Las nieblas se elevan, rayos rojos y enojados se están lanzando\r\n     Alrededor de mi cabeza!\r\n     Un horror del techo abovedado,\r\n     ¡Y me agarra!\r\n     ¡Siento tu presencia, espíritu invoco!\r\n     ¡Revela a ti mismo!\r\n     ¡Ja! ¡En mi corazón, qué trazo de desgarro!\r\n     Con nuevo impulso\r\n     ¡Mis sentidos se agitan en esta convulsión!\r\n     Te siento dibujar mi corazón, absorber, agotarme:\r\n     ¡Debes! ¡Debes! ¡Y aunque mi vida me costó!\n\r\n     (Él agarra el libro y pronuncia misteriosamente el signo de\r\n     el espíritu. Una llama rojiza parpadea: el espíritu aparece en\r\n     la llama.)\n\n\r\n     ESPÍRITU\n\r\n     ¿Quién me llama?\n\n\r\n     Fausto (con cabeza evitada)"
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 69,
+        "fields": {
+            "id_proyecto_gutenberg": 2527,
+            "titulo": "The Sorrows of Young Werther",
+            "titulo_es": "Las penas del joven Werther",
+            "titulo_IA": null,
+            "pista_IA": "La historia de un joven que se consume por un amor no correspondido, llevando a la desesperación.",
+            "temas": [
+                "Germany -- Social life and customs -- Fiction",
+                "Unrequited love -- Fiction",
+                "Young men -- Germany -- Fiction"
+            ],
+            "autores": [
+                27
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 4640,
+            "enlace": "https://www.gutenberg.org/ebooks/2527.html.images",
+            "primer_parrafo_en": "How happy I am that I am gone! My dear friend, what a thing is the heart\r\n      of man! To leave you, from whom I have been inseparable, whom I love so\r\n      dearly, and yet to feel happy! I know you will forgive me. Have not other\r\n      attachments been specially appointed by fate to torment a head like mine?\r\n      Poor Leonora! and yet I was not to blame. Was it my fault, that, whilst\r\n      the peculiar charms of her sister afforded me an agreeable entertainment,\r\n      a passion for me was engendered in her feeble heart? And yet am I wholly\r\n      blameless? Did I not encourage her emotions? Did I not feel charmed at\r\n      those truly genuine expressions of nature, which, though but little\r\n      mirthful in reality, so often amused us? Did I not—but oh! what is\r\n      man, that he dares so to accuse himself? My dear friend I promise you I\r\n      will improve; I will no longer, as has ever been my habit, continue to\r\n      ruminate on every petty vexation which fortune may dispense; I will enjoy\r\n      the present, and the past shall be for me the past. No doubt you are\r\n      right, my best of friends, there would be far less suffering amongst\r\n      mankind, if men—and God knows why they are so fashioned—did\r\n      not employ their imaginations so assiduously in recalling the memory of\r\n      past sorrow, instead of bearing their present lot with equanimity. Be kind\r\n      enough to inform my mother that I shall attend to her business to the best\r\n      of my ability, and shall give her the earliest information about it. I\r\n      have seen my aunt, and find that she is very far from being the\r\n      disagreeable person our friends allege her to be. She is a lively,\r\n      cheerful woman, with the best of hearts. I explained to her my mother's\r\n      wrongs with regard to that part of her portion which has been withheld\r\n      from her. She told me the motives and reasons of her own conduct, and the\r\n      terms on which she is willing to give up the whole, and to do more than we\r\n      have asked. In short, I cannot write further upon this subject at present;\r\n      only assure my mother that all will go on well. And I have again observed,\r\n      my dear friend, in this trifling affair, that misunderstandings and\r\n      neglect occasion more mischief in the world than even malice and\r\n      wickedness. At all events, the two latter are of less frequent occurrence.",
+            "primer_parrafo_es": "¡Qué feliz estoy de que me haya ido! Mi querido amigo, que cosa es el corazón\r\n      ¡De hombre! Para dejarte, de quien he sido inseparable, a quien amo tanto\r\n      ¡Cariño, y aún por sentirse feliz! Sé que me perdonarás. No tengo otro\r\n      ¿Los archivos adjuntos han sido especialmente designados por el destino para atormentar una cabeza como la mía?\r\n      ¡Pobre Leonora! Y sin embargo, no tuve la culpa. ¿Fue mi culpa?\r\n      Los encantos peculiares de su hermana me permitieron un entretenimiento agradable,\r\n      ¿Se engendra una pasión por mí en su débil corazón? Y sin embargo, estoy completamente\r\n      ¿inocente? ¿No alenté sus emociones? ¿No me sentí encantado con\r\n      Esas expresiones verdaderamente genuinas de la naturaleza, que, aunque muy poco\r\n      Muy bien en realidad, ¿tan a menudo nos divierte? No lo hice, ¡pero oh! qué es\r\n      Hombre, ¿que se atreve a acusarse a sí mismo? Mi querido amigo te prometo\r\n      mejorará; Ya no, como nunca ha sido mi hábito, continuaré\r\n      Ruminar en cada vejación mezquina que la fortuna puede dispensar; Disfrutaré\r\n      el presente, y el pasado será para mí el pasado. Sin duda eres\r\n      Correcto, mis mejores amigos, habría mucho menos sufrimiento entre\r\n      La humanidad, si los hombres, y Dios sabe por qué están tan diseñados, hidió\r\n      no emplear su imaginación tan asiduamente al recordar la memoria de\r\n      Dolor pasado, en lugar de soportar su lote actual con ecuanimidad. Sé amable\r\n      suficiente para informar a mi madre que atenderé a su negocio al mejor\r\n      de mi habilidad, y le dará la primera información al respecto. I\r\n      he visto a mi tía y descubrir que ella está muy lejos de ser la\r\n      Persona desagradable Nuestros amigos alegan que es. Ella es una animada\r\n      Mujer alegre, con el mejor de los corazones. Le expliqué la de mi madre\r\n      errores con respecto a esa parte de su parte que ha sido retenida\r\n      de ella. Ella me dijo los motivos y las razones de su propia conducta, y el\r\n      términos en los que ella está dispuesta a renunciar a todo y hacer más de lo que nosotros\r\n      he preguntado. En resumen, no puedo escribir más sobre este tema en la actualidad;\r\n      Solo asegura a mi madre que todo continuará bien. Y he observado nuevamente\r\n      mi querido amigo, en este asunto insignificante, ese malentendido y malentendidos y\r\n      descuidar la ocasión más travesuras en el mundo que incluso malicia y\r\n      malicia. En todo caso, los dos últimos son de ocurrencia menos frecuente."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 74,
+        "fields": {
+            "id_proyecto_gutenberg": 84,
+            "titulo": "Frankenstein; Or, The Modern Prometheus",
+            "titulo_es": "Frankenstein; O el Prometeo moderno",
+            "titulo_IA": "Frankenstein",
+            "pista_IA": "La historia de un científico que crea vida, solo para enfrentarse a las consecuencias de su experimento.",
+            "temas": [
+                "Frankenstein's monster (Fictitious character) -- Fiction",
+                "Frankenstein, Victor (Fictitious character) -- Fiction",
+                "Gothic fiction",
+                "Horror tales",
+                "Monsters -- Fiction",
+                "Science fiction",
+                "Scientists -- Fiction"
+            ],
+            "autores": [
+                29
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 120803,
+            "enlace": "https://www.gutenberg.org/ebooks/84.html.images",
+            "primer_parrafo_en": "I am by birth a Genevese, and my family is one of the most distinguished of\r\nthat republic. My ancestors had been for many years counsellors and syndics,\r\nand my father had filled several public situations with honour and reputation.\r\nHe was respected by all who knew him for his integrity and indefatigable\r\nattention to public business. He passed his younger days perpetually occupied\r\nby the affairs of his country; a variety of circumstances had prevented his\r\nmarrying early, nor was it until the decline of life that he became a husband\r\nand the father of a family.",
+            "primer_parrafo_es": "Soy de nacimiento de un genevés, y mi familia es una de las más distinguidas de\r\nesa república. Mis antepasados ​​habían sido durante muchos años consejeros y sindics,\r\nY mi padre había llenado varias situaciones públicas con honor y reputación.\r\nFue respetado por todos los que lo conocieron por su integridad e infatigable\r\natención a los negocios públicos. Pasó sus días de juventud perpetuamente ocupado\r\npor los asuntos de su país; una variedad de circunstancias habían evitado su\r\ncasarse temprano, ni fue hasta el declive de la vida que se convirtió en marido\r\ny el padre de una familia."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 77,
+        "fields": {
+            "id_proyecto_gutenberg": 9182,
+            "titulo": "Villette",
+            "titulo_es": "Villeta",
+            "titulo_IA": null,
+            "pista_IA": "La historia de una mujer que busca independencia y amor en el extranjero.",
+            "temas": [
+                "Autobiographical fiction",
+                "British -- Belgium -- Fiction",
+                "Brussels (Belgium) -- Fiction",
+                "Love stories",
+                "Women teachers -- Fiction"
+            ],
+            "autores": [
+                30
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 1724,
+            "enlace": "https://www.gutenberg.org/ebooks/9182.html.images",
+            "primer_parrafo_en": "My godmother lived in a handsome house in the clean and ancient town of\r\nBretton. Her husband’s family had been residents there for generations, and\r\nbore, indeed, the name of their birthplace—Bretton of Bretton: whether by\r\ncoincidence, or because some remote ancestor had been a personage of sufficient\r\nimportance to leave his name to his neighbourhood, I know not.",
+            "primer_parrafo_es": "Mi madrina vivía en una casa hermosa en la ciudad limpia y antigua de\r\nBretton. La familia de su esposo había sido residentes allí durante generaciones, y\r\nBore, de hecho, el nombre de su lugar de nacimiento: Bretton de Bretton: ya sea por\r\ncoincidencia, o porque algún antepasado remoto había sido un personaje de suficiente\r\nImportancia dejar su nombre a su vecindario, no lo sé."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 79,
+        "fields": {
+            "id_proyecto_gutenberg": 768,
+            "titulo": "Wuthering Heights",
+            "titulo_es": "Alturas de Wuthering",
+            "titulo_IA": null,
+            "pista_IA": "Un amor atormentado que ni la muerte puede apagar.",
+            "temas": [
+                "Domestic fiction",
+                "Foundlings -- Fiction",
+                "Heathcliff (Fictitious character : Brontë) -- Fiction",
+                "Love stories",
+                "Psychological fiction",
+                "Rejection (Psychology) -- Fiction",
+                "Revenge -- Fiction",
+                "Rural families -- Fiction",
+                "Triangles (Interpersonal relations) -- Fiction",
+                "Yorkshire (England) -- Fiction"
+            ],
+            "autores": [
+                31
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 14553,
+            "enlace": "https://www.gutenberg.org/ebooks/768.html.images",
+            "primer_parrafo_en": "1801—I have just returned from a visit to my landlord—the solitary\r\nneighbour that I shall be troubled with. This is certainly a beautiful country!\r\nIn all England, I do not believe that I could have fixed on a situation so\r\ncompletely removed from the stir of society. A perfect misanthropist’s\r\nHeaven—and Mr. Heathcliff and I are such a suitable pair to divide the\r\ndesolation between us. A capital fellow! He little imagined how my heart warmed\r\ntowards him when I beheld his black eyes withdraw so suspiciously under their\r\nbrows, as I rode up, and when his fingers sheltered themselves, with a jealous\r\nresolution, still further in his waistcoat, as I announced my name.",
+            "primer_parrafo_es": "1801, acabo de regresar de una visita a mi arrendador, el solitario\r\nvecino con el que me preocuparé. ¡Este es sin duda un país hermoso!\r\nEn toda Inglaterra, no creo que pueda haber arreglado una situación, así que\r\ncompletamente eliminado del revuelo de la sociedad. Un misantropista perfecto\r\nCielo, y el Sr. Heathcliff y yo somos una pareja tan adecuada para dividir el\r\nDesolación entre nosotros. ¡Un compañero capital! Poco imaginó cómo se calentaba mi corazón\r\nhacia él cuando conté que sus ojos negros se retiran tan sospechosamente bajo su\r\ncejas, mientras subía, y cuando sus dedos se protegieron, con un celoso\r\nResolución, aún más en su chaleco, como anuncié mi nombre."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 80,
+        "fields": {
+            "id_proyecto_gutenberg": 209,
+            "titulo": "The Turn of the Screw",
+            "titulo_es": "El giro del tornillo",
+            "titulo_IA": null,
+            "pista_IA": "Dos niños aparentemente inocentes y una presencia que solo su institutriz percibe.",
+            "temas": [
+                "Children -- Fiction",
+                "England -- Fiction",
+                "Ghost stories",
+                "Governesses -- Fiction",
+                "Psychological fiction"
+            ],
+            "autores": [
+                32
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 5252,
+            "enlace": "https://www.gutenberg.org/ebooks/209.html.images",
+            "primer_parrafo_en": "I remember the whole beginning as a succession of flights and drops, a little\r\nseesaw of the right throbs and the wrong. After rising, in town, to meet his\r\nappeal, I had at all events a couple of very bad days—found myself\r\ndoubtful again, felt indeed sure I had made a mistake. In this state of mind I\r\nspent the long hours of bumping, swinging coach that carried me to the stopping\r\nplace at which I was to be met by a vehicle from the house. This convenience, I\r\nwas told, had been ordered, and I found, toward the close of the June\r\nafternoon, a commodious fly in waiting for me. Driving at that hour, on a\r\nlovely day, through a country to which the summer sweetness seemed to offer me\r\na friendly welcome, my fortitude mounted afresh and, as we turned into the\r\navenue, encountered a reprieve that was probably but a proof of the point to\r\nwhich it had sunk. I suppose I had expected, or had dreaded, something so\r\nmelancholy that what greeted me was a good surprise. I remember as a most\r\npleasant impression the broad, clear front, its open windows and fresh curtains\r\nand the pair of maids looking out; I remember the lawn and the bright flowers\r\nand the crunch of my wheels on the gravel and the clustered treetops over which\r\nthe rooks circled and cawed in the golden sky. The scene had a greatness that\r\nmade it a different affair from my own scant home, and there immediately\r\nappeared at the door, with a little girl in her hand, a civil person who\r\ndropped me as decent a curtsy as if I had been the mistress or a distinguished\r\nvisitor. I had received in Harley Street a narrower notion of the place, and\r\nthat, as I recalled it, made me think the proprietor still more of a gentleman,\r\nsuggested that what I was to enjoy might be something beyond his promise.",
+            "primer_parrafo_es": "Recuerdo todo el comienzo como una sucesión de vuelos y caídas, un poco\r\nSacaw de los latidos correctos y lo incorrecto. Después de levantarse, en la ciudad, para encontrarse con su\r\napelación, tuve en todos los eventos un par de días muy malos, me encontré\r\nDe nuevo dudoso, me sentí seguro de que había cometido un error. En este estado mental yo\r\nPasé las largas horas de entrenador que me dio un golpe que me llevó a la parada\r\nLugar en el que me reunía con un vehículo desde la casa. Esta conveniencia, yo\r\nle dijeron, se le había ordenado, y encontré, hacia el final del junio\r\ntarde, una mosca cómoda esperándome. Conduciendo a esa hora, en un\r\nPrecioso día, a través de un país al que la dulzura del verano me pareció ofrecerme\r\nUna bienvenida amistosa, mi fortaleza montó nuevamente y, mientras nos convertimos en el\r\navenida, encontró una aplazamiento que probablemente no era más que una prueba del punto para\r\nque se había hundido. Supongo que había esperado, o había temido, algo así\r\nMelancholy que lo que me saludó fue una buena sorpresa. Recuerdo como un\r\nImpresión agradable El frente amplio y transparente, sus ventanas abiertas y cortinas frescas\r\ny la pareja de criadas mirando hacia afuera; Recuerdo el césped y las flores brillantes\r\ny el crujido de mis ruedas en la grava y las copas de los árboles agrupadas sobre las cuales\r\nLas torres rodaron y se colocaron en el cielo dorado. La escena tenía una grandeza que\r\nlo convirtió en un asunto diferente de mi propia casa escasa, e inmediatamente\r\napareció en la puerta, con una niña en la mano, una persona civil que\r\nme dejó tan decente como si hubiera sido la amante o una distinguida\r\nvisitante. Había recibido en Harley Street una noción más estrecha del lugar, y\r\nEso, como lo recordé, me hizo pensar que el propietario aún más como un caballero,\r\nsugirió que lo que debía disfrutar podría ser algo más allá de su promesa."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 81,
+        "fields": {
+            "id_proyecto_gutenberg": 208,
+            "titulo": "Daisy Miller: A Study",
+            "titulo_es": "Daisy Miller: un estudio",
+            "titulo_IA": "Daisy Miller",
+            "pista_IA": "Un retrato de una joven americana que desafía las normas sociales europeas.",
+            "temas": [
+                "Americans -- Europe -- Fiction",
+                "Europe -- Fiction",
+                "Psychological fiction",
+                "Young women -- Fiction"
+            ],
+            "autores": [
+                32
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 2703,
+            "enlace": "https://www.gutenberg.org/ebooks/208.html.images",
+            "primer_parrafo_en": "At the little town of Vevey, in Switzerland, there is a particularly\r\n      comfortable hotel. There are, indeed, many hotels, for the entertainment\r\n      of tourists is the business of the place, which, as many travelers will\r\n      remember, is seated upon the edge of a remarkably blue lake—a lake\r\n      that it behooves every tourist to visit. The shore of the lake presents an\r\n      unbroken array of establishments of this order, of every category, from\r\n      the “grand hotel” of the newest fashion, with a chalk-white front, a\r\n      hundred balconies, and a dozen flags flying from its roof, to the little\r\n      Swiss pension of an elder day, with its name inscribed in German-looking\r\n      lettering upon a pink or yellow wall and an awkward summerhouse in the\r\n      angle of the garden. One of the hotels at Vevey, however, is famous, even\r\n      classical, being distinguished from many of its upstart neighbors by an\r\n      air both of luxury and of maturity. In this region, in the month of June,\r\n      American travelers are extremely numerous; it may be said, indeed, that\r\n      Vevey assumes at this period some of the characteristics of an American\r\n      watering place. There are sights and sounds which evoke a vision, an echo,\r\n      of Newport and Saratoga. There is a flitting hither and thither of\r\n      “stylish” young girls, a rustling of muslin flounces, a rattle of dance\r\n      music in the morning hours, a sound of high-pitched voices at all times.\r\n      You receive an impression of these things at the excellent inn of the\r\n      “Trois Couronnes” and are transported in fancy to the Ocean House or to\r\n      Congress Hall. But at the “Trois Couronnes,” it must be added, there are\r\n      other features that are much at variance with these suggestions: neat\r\n      German waiters, who look like secretaries of legation; Russian princesses\r\n      sitting in the garden; little Polish boys walking about held by the hand,\r\n      with their governors; a view of the sunny crest of the Dent du Midi and\r\n      the picturesque towers of the Castle of Chillon.",
+            "primer_parrafo_es": "En la pequeña ciudad de Vevey, en Suiza, hay un particular\r\n      cómodo hotel. Hay, de hecho, muchos hoteles, para el entretenimiento.\r\n      de los turistas es el negocio del lugar, que, como muchos viajeros\r\n      Recuerde, está sentado al borde de un lago notablemente azul: un lago\r\n      que corresponde a cada turista a visitar. La orilla del lago presenta un\r\n      Mango ininterrumpido de establecimientos de esta orden, de cada categoría, de\r\n      El \"Grand Hotel\" de la moda más nueva, con un frente blanco de tiza, un\r\n      Cien balcones, y una docena de banderas volando desde su techo, hasta los pequeños\r\n      Pensión suiza de un día mayor, con su nombre inscrito en alemán\r\n      letras sobre una pared rosa o amarilla y una incómoda casa de verano en el\r\n      ángulo del jardín. Uno de los hoteles de Vevey, sin embargo, es famoso, incluso\r\n      clásico, siendo distinguido de muchos de sus vecinos\r\n      aire tanto del lujo como de madurez. En esta región, en el mes de junio,\r\n      Los viajeros estadounidenses son extremadamente numerosos; Se puede decir, de hecho, que\r\n      Vevey asume en este período algunas de las características de un estadounidense\r\n      Lugar de riego. Hay lugares y sonidos que evocan una visión, un eco,\r\n      de Newport y Saratoga. Hay una flita de llave y hasta aquí\r\n      Las jóvenes \"elegantes\", un susurro de muselina, un sonajero de baile\r\n      Música en las horas de la mañana, un sonido de voces agudas en todo momento.\r\n      Recibes una impresión de estas cosas en la excelente posada del\r\n      \"Trois Couronnes\" y son transportados en fantasía a la casa del océano o para\r\n      Salón del Congreso. Pero en el \"Trois Couronnes\", debe agregarse, hay\r\n      Otras características que están muy en desacuerdo con estas sugerencias: ordenado\r\n      Camareros alemanes, que parecen secretarios de legación; Princesas rusas\r\n      sentado en el jardín; niños polacos caminando por la mano,\r\n      con sus gobernadores; una vista de la cresta soleada del abolladura du midi y\r\n      Las pintorescas torres del castillo de Chillon."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 82,
+        "fields": {
+            "id_proyecto_gutenberg": 2833,
+            "titulo": "The Portrait of a Lady — Volume 1",
+            "titulo_es": "El retrato de una dama - Volumen 1",
+            "titulo_IA": "The Portrait of a Lady",
+            "pista_IA": "Una mujer enfrenta su destino entre la independencia y la sociedad europea.",
+            "temas": [
+                "Americans -- Italy -- Fiction",
+                "Archer, Isabel (Fictitious character) -- Fiction",
+                "Fathers and daughters -- Fiction",
+                "Inheritance and succession -- Fiction",
+                "Italy -- Fiction",
+                "Love stories",
+                "Married women -- Fiction",
+                "Psychological fiction",
+                "Triangles (Interpersonal relations) -- Fiction"
+            ],
+            "autores": [
+                32
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 2638,
+            "enlace": "https://www.gutenberg.org/ebooks/2833.html.images",
+            "primer_parrafo_en": "Under certain circumstances there are few hours in life more agreeable\r\n      than the hour dedicated to the ceremony known as afternoon tea. There are\r\n      circumstances in which, whether you partake of the tea or not—some\r\n      people of course never do,—the situation is in itself delightful.\r\n      Those that I have in mind in beginning to unfold this simple history\r\n      offered an admirable setting to an innocent pastime. The implements of the\r\n      little feast had been disposed upon the lawn of an old English\r\n      country-house, in what I should call the perfect middle of a splendid\r\n      summer afternoon. Part of the afternoon had waned, but much of it was\r\n      left, and what was left was of the finest and rarest quality. Real dusk\r\n      would not arrive for many hours; but the flood of summer light had begun\r\n      to ebb, the air had grown mellow, the shadows were long upon the smooth,\r\n      dense turf. They lengthened slowly, however, and the scene expressed that\r\n      sense of leisure still to come which is perhaps the chief source of one’s\r\n      enjoyment of such a scene at such an hour. From five o’clock to eight is\r\n      on certain occasions a little eternity; but on such an occasion as this\r\n      the interval could be only an eternity of pleasure. The persons concerned\r\n      in it were taking their pleasure quietly, and they were not of the sex\r\n      which is supposed to furnish the regular votaries of the ceremony I have\r\n      mentioned. The shadows on the perfect lawn were straight and angular; they\r\n      were the shadows of an old man sitting in a deep wicker-chair near the low\r\n      table on which the tea had been served, and of two younger men strolling\r\n      to and fro, in desultory talk, in front of him. The old man had his cup in\r\n      his hand; it was an unusually large cup, of a different pattern from the\r\n      rest of the set and painted in brilliant colours. He disposed of its\r\n      contents with much circumspection, holding it for a long time close to his\r\n      chin, with his face turned to the house. His companions had either\r\n      finished their tea or were indifferent to their privilege; they smoked\r\n      cigarettes as they continued to stroll. One of them, from time to time, as\r\n      he passed, looked with a certain attention at the elder man, who,\r\n      unconscious of observation, rested his eyes upon the rich red front of his\r\n      dwelling. The house that rose beyond the lawn was a structure to repay\r\n      such consideration and was the most characteristic object in the\r\n      peculiarly English picture I have attempted to sketch.",
+            "primer_parrafo_es": "Bajo ciertas circunstancias, hay pocas horas en la vida más agradables\r\n      que la hora dedicada a la ceremonia conocida como té de la tarde. Hay\r\n      circunstancias en las que, ya sea que participe del té o no, algunas\r\n      La gente, por supuesto, nunca lo hace, la situación es en sí misma deliciosa.\r\n      Aquellos que tengo en mente al comenzar a desarrollar esta simple historia\r\n      ofreció un entorno admirable a un pasatiempo inocente. Los implementos del\r\n      Little Feast había sido dispuesta al césped de un inglés antiguo\r\n      casa de campo, en lo que debería llamar el medio perfecto de un espléndido\r\n      tarde de verano. Parte de la tarde había disminuido, pero gran parte era\r\n      Se fue, y lo que quedaba era de la mejor y más rara calidad. Ophusk real\r\n      no llegaría por muchas horas; Pero la inundación de la luz de verano había comenzado\r\n      Para refligarse, el aire se había vuelto suave, las sombras estaban largas sobre la suave,\r\n      Turf denso. Sin embargo, se alargaron lentamente y la escena expresó que\r\n      sentido de ocio aún por venir, que es quizás la principal fuente de uno\r\n      disfrute de tal escena a tal hora. De cinco en punto a ocho son\r\n      En ciertas ocasiones un poco de eternidad; Pero en una ocasión como esta\r\n      El intervalo podría ser solo una eternidad de placer. Las personas preocupadas\r\n      en él estaban disfrutando de su placer en silencio, y no eran del sexo\r\n      que se supone que proporciona los votantes regulares de la ceremonia que tengo\r\n      mencionado. Las sombras en el césped perfecta eran rectas y angulares; ellos\r\n      estaban las sombras de un anciano sentado en una profunda silla de mimbre cerca del bajo\r\n      mesa en la que se había servido el té y de dos hombres más jóvenes paseando\r\n      de aquí para allá, en una charla desultoria, frente a él. El viejo tenía su copa en\r\n      su mano; Era una taza inusualmente grande, de un patrón diferente del\r\n      El resto del set y pintado en colores brillantes. Él eliminó su\r\n      contenido con mucha circunspección, sosteniéndola durante mucho tiempo cerca de su\r\n      Chin, con la cara girada hacia la casa. Sus compañeros tenían\r\n      terminó su té o eran indiferentes a su privilegio; Fumaban\r\n      cigarrillos mientras continuaban paseando. Uno de ellos, de vez en cuando, como\r\n      Pasó, miró con cierta atención al hombre mayor, quien,\r\n      inconsciente de la observación, apoyó los ojos en el rico frente rojo de su\r\n      vivienda. La casa que se elevó más allá del césped era una estructura para pagar\r\n      tal consideración y fue el objeto más característico en el\r\n      Imagen peculiarmente inglesa que he intentado esbozar."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 83,
+        "fields": {
+            "id_proyecto_gutenberg": 76,
+            "titulo": "Adventures of Huckleberry Finn",
+            "titulo_es": "Aventuras de Huckleberry Finn",
+            "titulo_IA": "Huckleberry Finn",
+            "pista_IA": "Las aventuras de un joven que huye por el río Mississippi, buscando libertad y auto-descubrimiento.",
+            "temas": [
+                "Adventure stories",
+                "Bildungsromans",
+                "Boys -- Fiction",
+                "Finn, Huckleberry (Fictitious character) -- Fiction",
+                "Fugitive slaves -- Fiction",
+                "Humorous stories",
+                "Male friendship -- Fiction",
+                "Mississippi River -- Fiction",
+                "Missouri -- Fiction",
+                "Race relations -- Fiction",
+                "Runaway children -- Fiction"
+            ],
+            "autores": [
+                33
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 25434,
+            "enlace": "https://www.gutenberg.org/ebooks/76.html.images",
+            "primer_parrafo_en": "You don’t know about me without you have read a book by the name of The\r\nAdventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr.\r\nMark Twain, and he told the truth, mainly. There was things which he stretched,\r\nbut mainly he told the truth. That is nothing. I never seen anybody but lied\r\none time or another, without it was Aunt Polly, or the widow, or maybe Mary.\r\nAunt Polly—Tom’s Aunt Polly, she is—and Mary, and the Widow Douglas is all told\r\nabout in that book, which is mostly a true book, with some stretchers, as I\r\nsaid before.",
+            "primer_parrafo_es": "No sabes sobre mí sin que has leído un libro con el nombre del\r\nAventuras de Tom Sawyer; Pero eso no es que no importa. Ese libro fue hecho por el Sr.\r\nMark Twain, y él dijo la verdad, principalmente. Había cosas que él estiró,\r\nPero principalmente dijo la verdad. Eso no es nada. Nunca vi a nadie pero mentí\r\nUna vez u otra, sin la tía Polly, o la viuda, o tal vez María.\r\nTía Polly, la tía de Tom, Polly, ella es, y Mary, y la viuda Douglas está contada\r\nsobre ese libro, que es principalmente un verdadero libro, con algunas camillas, como yo\r\ndijo antes."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 85,
+        "fields": {
+            "id_proyecto_gutenberg": 1837,
+            "titulo": "The Prince and the Pauper",
+            "titulo_es": "El príncipe y el indigente",
+            "titulo_IA": null,
+            "pista_IA": "Dos niños idénticos intercambian lugares y viven realidades opuestas.",
+            "temas": [
+                "Boys -- Fiction",
+                "Edward VI, King of England, 1537-1553 -- Fiction",
+                "Historical fiction",
+                "Impostors and imposture -- Fiction",
+                "London (England) -- Fiction",
+                "Lookalikes -- Fiction",
+                "Poor children -- Fiction",
+                "Princes -- Fiction",
+                "Social classes -- Fiction"
+            ],
+            "autores": [
+                33
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 7087,
+            "enlace": "https://www.gutenberg.org/ebooks/1837.html.images",
+            "primer_parrafo_en": "Here the jeering crowd closed round the poor little prince, and hustled\r\n      him far down the road, hooting him, and shouting—",
+            "primer_parrafo_es": "Aquí la multitud burlona cerró alrededor del pobre príncipe, y se apresuró\r\n      él lejos en el camino, gritándolo y gritando,"
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 89,
+        "fields": {
+            "id_proyecto_gutenberg": 1069,
+            "titulo": "Four Short Stories By Emile Zola",
+            "titulo_es": "Cuatro historias cortas de Emile Zola",
+            "titulo_IA": "Four Short Stories by Zola",
+            "pista_IA": "Pequeñas historias de realismo crudo y social.",
+            "temas": [
+                "France -- Social life and customs -- Fiction",
+                "Short stories"
+            ],
+            "autores": [
+                8
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 473,
+            "enlace": "https://www.gutenberg.org/ebooks/1069.html.images",
+            "primer_parrafo_en": "At nine o’clock in the evening the body of the house at the Theatres des\r\nVariétés was still all but empty. A few individuals, it is true, were sitting\r\nquietly waiting in the balcony and stalls, but these were lost, as it were,\r\namong the ranges of seats whose coverings of cardinal velvet loomed in the\r\nsubdued light of the dimly burning luster. A shadow enveloped the great red\r\nsplash of the curtain, and not a sound came from the stage, the unlit\r\nfootlights, the scattered desks of the orchestra. It was only high overhead in\r\nthe third gallery, round the domed ceiling where nude females and children flew\r\nin heavens which had turned green in the gaslight, that calls and laughter were\r\naudible above a continuous hubbub of voices, and heads in women’s and\r\nworkmen’s caps were ranged, row above row, under the wide-vaulted bays\r\nwith their gilt-surrounding adornments. Every few seconds an attendant would\r\nmake her appearance, bustling along with tickets in her hand and piloting in\r\nfront of her a gentleman and a lady, who took their seats, he in his evening\r\ndress, she sitting slim and undulant beside him while her eyes wandered slowly\r\nround the house.",
+            "primer_parrafo_es": "A las nueve de la noche, el cuerpo de la casa en los teatros\r\nVariétés todavía estaba casi vacío. Algunos individuos, es cierto, estaban sentados\r\nesperando silenciosamente en el balcón y los puestos, pero estos se perdieron, por así decirlo,\r\nEntre los rangos de asientos cuyas coberturas del terciopelo cardinal se alzaban en el\r\nLuz moderada del brillo débilmente ardiente. Una sombra envolvió el gran rojo\r\nsalpicaduras de la cortina, y no un sonido vino del escenario, el no\r\nFlights, los escritorios dispersos de la orquesta. Era solo alto en alto en\r\nLa tercera galería, alrededor del techo abovedado donde volaron hembras y niños desnudos\r\nen cielos que se habían vuelto verde en la luz del gas, esas llamadas y risas fueron\r\naudible por encima de un bosque continuo de voces y cabezas en mujeres y\r\nLas gorras de los trabajadores fueron a distancia, fila por encima de la fila, debajo de las bahías de amplio salto\r\ncon sus adornos dorados. Cada pocos segundos un asistente\r\nhacer su aparición, bulliciosos junto con boletos en la mano y pilotando en\r\nFrente de ella, un caballero y una dama, que tomó asiento, él en su noche\r\nVestido, ella sentada delgada y ondulante a su lado mientras sus ojos deambulaban lentamente\r\nalrededor de la casa."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 92,
+        "fields": {
+            "id_proyecto_gutenberg": 174,
+            "titulo": "The Picture of Dorian Gray",
+            "titulo_es": "La imagen de Dorian Gray",
+            "titulo_IA": "Dorian Gray",
+            "pista_IA": "La historia de un hombre cuya belleza y juventud permanecen intactas mientras su retrato envejece.",
+            "temas": [
+                "Appearance (Philosophy) -- Fiction",
+                "Conduct of life -- Fiction",
+                "Didactic fiction",
+                "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+                "London (England) -- History -- 1800-1950 -- Fiction",
+                "Paranormal fiction",
+                "Portraits -- Fiction",
+                "Supernatural -- Fiction"
+            ],
+            "autores": [
+                36
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 30556,
+            "enlace": "https://www.gutenberg.org/ebooks/174.html.images",
+            "primer_parrafo_en": "The studio was filled with the rich odour of roses, and when the light summer\r\nwind stirred amidst the trees of the garden, there came through the open door\r\nthe heavy scent of the lilac, or the more delicate perfume of the\r\npink-flowering thorn.",
+            "primer_parrafo_es": "El estudio estaba lleno del rico olor de las rosas, y cuando el verano de la luz\r\nEl viento se agitó en medio de los árboles del jardín, llegó a través de la puerta abierta\r\nel aroma pesado de la lila, o el perfume más delicado del\r\nespina de floración rosa."
+        }
+    },
+    {
+        "model": "api.libro",
+        "pk": 93,
+        "fields": {
+            "id_proyecto_gutenberg": 844,
+            "titulo": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+            "titulo_es": "La importancia de ser sincero: una comedia trivial para personas serias",
+            "titulo_IA": "The Importance of Being Earnest",
+            "pista_IA": "Una comedia de enredos que critica las normas sociales a través de una trama de identidades falsas y malentendidos.",
+            "temas": [
+                "Comedies",
+                "England -- Drama",
+                "Foundlings -- Drama",
+                "Identity (Psychology) -- Drama"
+            ],
+            "autores": [
+                36
+            ],
+            "idiomas": [
+                "en"
+            ],
+            "cantidad_descargas": 27689,
+            "enlace": "https://www.gutenberg.org/ebooks/844.html.images",
+            "primer_parrafo_en": "Morning-room in Algernon’s flat in Half-Moon Street. The room is\r\nluxuriously and artistically furnished. The sound of a piano is heard in the\r\nadjoining room.",
+            "primer_parrafo_es": "Room en la mañana en el piso de Algernon en Half-Moon Street. La habitación es\r\namueblado de lujo y artísticamente. El sonido de un piano se escucha en el\r\nhabitación contigua."
+        }
+    }
+]
