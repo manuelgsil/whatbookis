@@ -27,10 +27,14 @@ export default function Book() {
     resetGame,
     showTranslation,
     toggleTranslation,
+    handleGiveUp,
+    isTitleVisible,
+    hasGivenUp
   } = useBookGame()
 
   const [showModal, setShowModal] = useState(false)
   const [modalContent, setModalContent] = useState("")
+  
 
   const clues = currentBook
     ? [
@@ -53,7 +57,6 @@ export default function Book() {
     }
   }, [lives, correctGuesses, handleGameEndLocal])
 
-  // Asegúrate de resetear las vidas, intentos, y aciertos cuando se selecciona un nuevo libro
   const handleNewBook = () => {
     resetGame()  // Resetea las estadísticas del juego (vidas, intentos, aciertos)
     handleButtonClick()  // Selecciona un nuevo libro aleatorio
@@ -79,20 +82,28 @@ export default function Book() {
               toggleTranslation={toggleTranslation}
             />
             <div className="card self-center">
-              <h2 className="heading-2 py-5 text-balance">Adivina el título: {currentBook.titulo}</h2>
-              <GuessInput
-                titleGuess={titleGuess}
-                setTitleGuess={setTitleGuess}
-                handleGuess={handleGuess}
-                isCorrect={isCorrect}
-              />
-              {isCorrect && correctGuesses < 5 && (
-                <button onClick={handleNext} className="btn-secondary w-full mt-4">
-                  Siguiente
-                </button>
-              )}
-              <GameStats lives={lives} correctGuesses={correctGuesses} />
-            </div>
+  <h2 className="heading-2 py-5 text-balance">
+{isTitleVisible 
+  ? `Título: ${currentBook.titulo_IA ?? currentBook.titulo}` 
+  : "Adivina el título"}  </h2>
+ <GuessInput
+  titleGuess={titleGuess}
+  setTitleGuess={setTitleGuess}
+  handleGuess={handleGuess}
+  isCorrect={isCorrect}
+/>
+  {!isCorrect && !hasGivenUp && (
+    <button onClick={handleGiveUp} className="btn-secondary w-full mt-4">
+      Rendirse (-1 vida)
+    </button>
+  )}
+  {(isCorrect || hasGivenUp) && correctGuesses < 5 && (
+    <button onClick={handleNext} className="btn-secondary w-full mt-4">
+      Siguiente
+    </button>
+  )}
+  <GameStats lives={lives} correctGuesses={correctGuesses} />
+</div>
             <div className="lg:col-span-2 grid grid-cols-1 sm:grid-cols-3 gap-6 auto-rows-auto">
               {clues.map((clue, index) => (
                 <ClueBox

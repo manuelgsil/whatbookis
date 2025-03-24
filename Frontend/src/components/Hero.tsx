@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import { ArrowRight, BookOpen } from "lucide-react"
 
 const Hero = () => {
   return (
@@ -17,13 +16,18 @@ const Hero = () => {
             <div className="flex flex-row sm:flex-row gap-4 justify-center">
               <Link to="/quiz" className="btn-primary inline-flex items-center">
                 Juguemos
-                {/* <ArrowRight className="ml-2 -mr-1 h-5 w-5" /> */}
               </Link>
-         {/*      <Link to="/projects" className="btn-secondary inline-flex items-center">
-                Más proyectos
-                <BookOpen className="ml-2 -mr-1 h-5 w-5" />
-              </Link> */}
             </div>
+            <p className="text-content text-gray-500 mt-4">
+              ⚠️ Nota: Esta aplicación se conecta a un servicio gratuito en Render, por lo que puede tardar en cargar los libros.
+              Si ves que la carga es lenta, intenta <strong>refrescar la página</strong>. Por otro lado,
+              recomendamos una lectura ligera de cómo está estrucutrado el proyecto ya que hay ciertas
+              peculiaridades a la hora tratar de acertar el título de un libro. 
+              Más detalles en  <br />
+              <Link to="/caracteristicas" className="text-primary underline">
+                características
+              </Link>.
+            </p>
           </div>
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-primary to-secondary rounded-full filter blur-3xl opacity-60 animate-blob"></div>
@@ -40,4 +44,3 @@ const Hero = () => {
 }
 
 export default Hero
-
