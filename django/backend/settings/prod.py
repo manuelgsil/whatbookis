@@ -6,16 +6,15 @@ from urllib.parse import urlparse
 
 
 ALLOWED_HOSTS = [
-    'localhost',  # Para permitir peticiones desde tu máquina local
-    '127.0.0.1',  # También para la IP local
-    'your-app-name.onrender.com',  # Dominio en Render
-    'your-app-name.vercel.app',    # Dominio en Vercel
-    'whatbookis.onrender.com',     # El dominio que mencionaste
+    'whatbookis.onrender.com',
+    'whatbookis.vercel.app',
 ]
+
 DEBUG = False
 
 CORS_ALLOWED_ORIGINS = [
-    "https://whatbookis.vercel.app",  # El dominio de tu frontend en Vercel
+    "https://whatbookis.vercel.app"
+    "http://localhost:5173",  
 ]
 load_dotenv()  # Carga las variables de entorno desde un archivo .env
 tmpPostgres = urlparse(os.getenv("DATABASE_URL"))
@@ -35,7 +34,6 @@ DATABASES = {
     }
 }
 
-# Seguridad en producción
-""" SECURE_SSL_REDIRECT = False
+SECURE_SSL_REDIRECT = True  
 CSRF_COOKIE_SECURE = True
-SESSION_COOKIE_SECURE = True """
+SESSION_COOKIE_SECURE = True 

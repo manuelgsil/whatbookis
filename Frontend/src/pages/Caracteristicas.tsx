@@ -34,6 +34,13 @@ const Caracteristicas = () => {
               <p className="text-lg font-medium">
                 A continuación, te explico cómo está estructurado el proyecto y cómo funciona:
               </p>
+              <h4 className="text-lg font-semibold text-primary mt-4">🔹 Títulos en inglés y en español:</h4>
+              <p className="text-lg font-medium">
+                Aunque el juego muestra la versión original en inglés del título del libro, acepta respuestas tanto en inglés como en español.
+                Esto permite a los jugadores escribir el título en cualquiera de los dos idiomas. Además, se ha implementado un detector de
+                fallos tipográficos que corrige errores menores en las respuestas, aunque esta funcionalidad está en una versión beta y
+                puede no ser completamente precisa.
+              </p>
 
               <h4 className="text-lg font-semibold text-primary mt-4">🔹 Consumo de la API de Gutendex:</h4>
               <p className="text-lg font-medium">
@@ -52,7 +59,7 @@ const Caracteristicas = () => {
               <h4 className="text-lg font-semibold text-primary mt-4">🔹 Servir el Endpoint al Frontend:</h4>
               <p className="text-lg font-medium">
                 Una vez los datos están listos, el backend expone un endpoint en Django que permite al frontend acceder
-                a los libros con la información que necesitamos. 
+                a los libros con la información que necesitamos.
               </p>
 
               <h4 className="text-lg font-semibold text-primary mt-4">🔹 Lógica del Juego:</h4>

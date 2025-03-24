@@ -31,6 +31,7 @@ export interface GameState {
   correctGuesses: number  // Número de aciertos
   lives: number  // Vidas restantes
   unlockedClues: boolean[]  // Pistas desbloqueadas (Array de booleanos)
+  title:string
 }
 
 // Interfaz para las props del componente BookParagraph
@@ -53,7 +54,8 @@ export interface GuessInputProps {
 export interface GameStatsProps {
   lives: number  // Vidas restantes
   correctGuesses: number  // Aciertos correctos
-  attempts: number  // Intentos realizados
+  isTitleVisible: boolean  
+  title: string
 }
 
 // Interfaz para las props del componente ClueBox
