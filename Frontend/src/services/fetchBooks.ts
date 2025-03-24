@@ -25,25 +25,38 @@ export async function fetchBooks(): Promise<Book[]> {
         }));
     } catch (error) {
         console.error("Error fetching books, using emergency books instead", error);
-        
+
+        // Filtra los autores del JSON de emergencia
+        const authors = emergencyBooks
+            .filter((item: any) => item.model === "api.autor")
+            .map((author: any) => ({
+                id: author.pk,
+                nombre: author.fields.nombre,
+                nacimiento: author.fields.nacimiento,
+                fallecimiento: author.fields.fallecimiento,
+            }));
+
         // Si la API falla, usamos los libros de emergencia
-      booksData = emergencyBooks
-    .filter((item: any) => item.model === "api.libro") // Filtra los objetos que son libros
-    .map((book: any) => ({
-        titulo: book.fields.titulo || "Título no disponible",
-        titulo_es: book.fields.titulo_es || undefined, // Convierte null a undefined
-        titulo_IA: book.fields.titulo_IA ?? undefined, // Convierte null a undefined
-        pista_IA: book.fields.pista_IA ?? undefined, // Convierte null a undefined
-        enlace: book.fields.enlace || "",
-        temas: book.fields.temas || [],
-        primer_parrafo_en: book.fields.primer_parrafo_en || "No paragraph available",
-        primer_parrafo_es: book.fields.primer_parrafo_es || "No translation available",
-        autores: book.fields.autores?.map((autorId: number) => ({
-            nombre: `Autor con ID ${autorId}`,
-            nacimiento: null,
-            fallecimiento: null,
-        })) || [],
-    }));
+        booksData = emergencyBooks
+            .filter((item: any) => item.model === "api.libro") // Filtra los objetos que son libros
+            .map((book: any) => ({
+                titulo: book.fields.titulo || "Título no disponible",
+                titulo_es: book.fields.titulo_es || null,
+                titulo_IA: book.fields.titulo_IA || null,
+                pista_IA: book.fields.pista_IA || null,
+                enlace: book.fields.enlace || "",
+                temas: book.fields.temas || [],
+                primer_parrafo_en: book.fields.primer_parrafo_en || "No paragraph available",
+                primer_parrafo_es: book.fields.primer_parrafo_es || "No translation available",
+                autores: book.fields.autores?.map((autorId: number) => {
+                    const autor = authors.find((a) => a.id === autorId);
+                    return {
+                        nombre: autor?.nombre || `Autor con ID ${autorId}`,
+                        nacimiento: autor?.nacimiento || null,
+                        fallecimiento: autor?.fallecimiento || null,
+                    };
+                }) || [],
+            }));
     }
 
     return booksData; // Retornamos los datos almacenados en la variable
